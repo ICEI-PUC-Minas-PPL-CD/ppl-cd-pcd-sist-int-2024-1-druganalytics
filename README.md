@@ -1,13 +1,14 @@
-# Nome do projeto
+# DrugAnalytics
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Thiago Rocha Amaral
+* Bernardo Costa Lima Bentes
+* Rafael Mendes de Lacerda
+* Iury da Mota Santos 
+* Artur Braga Mota
 
 ## Professor
 

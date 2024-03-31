@@ -34,7 +34,7 @@ Serão utiliazados bancos de dados externos para a criação do sistema e dentre
 * Health Lake
 
 ## Finalidade
-Nosso sistema tem como proposito principal auxiliar entidades privadas e publicas no fornecimento de dados precisos e cruciais para que possam ser desenvolvidas ideias em cima dele, para que o combate a dependência química e a reentrodução dessas pessoas na sociedade seja feita da forma mais efetiva posível. Tendo como auxílio um sistema que agira de maneira rápida, efetiva e que terá informaçõe para que seja possível auxiliar diferentes tipos de soluções e propostas que venham a ser pensadas a partir dele.
+Nosso sistema tem como proposito principal auxiliar entidades privadas e publicas no fornecimento de dados precisos e cruciais para que possam ser desenvolvidas ideias em cima dele, para que o combate a dependência química e a reentrodução dessas pessoas na sociedade seja feita da forma mais efetiva possível. Tendo como auxílio um sistema que agira de maneira rápida, efetiva e que terá informaçõe para que seja capaz de auxiliar diferentes tipos de soluções e propostas que venham a ser pensadas a partir dele. 
 
 ## Instruções de utilização
 

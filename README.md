@@ -1,6 +1,5 @@
 # DrugAnalytics
-
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
+O nosso trabalho é focado em desenvolver um sistema inteligente capaz de analisar diversos bancos de dados existentes e oferecer um feedback personalizado de acordo com o interresse do usuário, seja ele uma entidade privada ou pública. O sistema será desenvolvido para análises de grande quantidade de dados, tendo como base bancos de dados de credibilidade e com uma frequência constante de atualizações dos dados que estaram à disposição do cliente.
 
 ## Integrantes
 

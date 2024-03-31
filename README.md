@@ -33,6 +33,9 @@ Serão utiliazados bancos de dados externos para a criação do sistema e dentre
 * IBGE (Instituo Brasileiro de Goegrafia e Estátistica)
 * Health Lake
 
+## Finalidade
+Nosso sistema tem como proposito principal auxiliar entidades privadas e publicas no fornecimento de dados precisos e cruciais para que possam ser desenvolvidas ideias em cima dele, para que o combate a dependência química e a reentrodução dessas pessoas na sociedade seja feita da forma mais efetiva posível. Tendo como auxílio um sistema que agira de maneira rápida, efetiva e que terá informaçõe para que seja possível auxiliar diferentes tipos de soluções e propostas que venham a ser pensadas a partir dele.
+
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.

@@ -1,4 +1,4 @@
-DrugAnalytics
+## DrugAnalytics
 
 
 Thiago Rocha Amaral, email do aluno 1**
@@ -13,7 +13,7 @@ Artur Braga Mota, email do aluno 5**
 
 ---
 
-Professor:
+## Professor:
 
 Prof. Hugo Bastos de Paula
 

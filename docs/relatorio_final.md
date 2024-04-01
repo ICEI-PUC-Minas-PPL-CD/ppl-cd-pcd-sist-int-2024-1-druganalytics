@@ -1,4 +1,4 @@
-# TITULO DO PROJETO
+DrugAnalytics
 
 
 Thiago Rocha Amaral, email do aluno 1**
@@ -13,10 +13,9 @@ Artur Braga Mota, email do aluno 5**
 
 ---
 
-Professores:
+Professor:
 
-** Prof. Nome do Prof 1 **
-** Prof. Nome do Prof 2 **
+Prof. Hugo Bastos de Paula
 
 ---
 

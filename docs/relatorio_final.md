@@ -1,11 +1,15 @@
 # TITULO DO PROJETO
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+Thiago Rocha Amaral, email do aluno 1**
 
-**Nome completo do Aluno 2, email do aluno 2**
+Bernardo Costa Lima Bentes, email do aluno 2**
 
-**Nome completo do Aluno 3, email do aluno 3**
+Rafael Mendes de Lacerda, email do aluno 3**
+
+Iury da Mota Santos, email do aluno 4**
+
+Artur Braga Mota, email do aluno 5**
 
 ---
 

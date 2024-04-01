@@ -91,6 +91,7 @@ específicos ou as razões para aprofundar em certos aspectos do software.
 
 
 ##    Público alvo
+O projeto tem como público alvo empresas e organizações do setor da saúde e da estátistica
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. 
 O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários 

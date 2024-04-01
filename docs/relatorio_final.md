@@ -1,7 +1,7 @@
 ## DrugAnalytics
 
 
-Thiago Rocha Amaral, email do aluno 1**
+Thiago Rocha Amaral, thiago.amaral@sga.pucminas.br
 
 Bernardo Costa Lima Bentes, email do aluno 2**
 

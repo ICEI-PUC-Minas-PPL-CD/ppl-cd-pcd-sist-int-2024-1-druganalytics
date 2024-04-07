@@ -9,7 +9,7 @@ Rafael Mendes de Lacerda, email do aluno 3**
 
 Iury da Mota Santos, email do aluno 4**
 
-Artur Braga Mota, email do aluno 5**
+Artur Braga Mota, artur.braga@sga.pucminas.br
 
 ---
 

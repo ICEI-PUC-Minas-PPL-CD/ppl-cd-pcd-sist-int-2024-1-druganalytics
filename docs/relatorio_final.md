@@ -116,7 +116,7 @@ diagramas de personas e mapa de stakeholders.
 Healthlake: Criada pela amazon em conjunto com Sírio-Libanês é a primeira base de dados focada em saúde do Brasil. Armazenar informações dos pacientes com o objetivo de digitalizar e otimizar os atendimentos. 
 Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados. Healhlake atravez da pesquisa cientifica busca padronizar dados acelerando processos. Além disso um suporte à decisão clinica, junto a inteligência artificial acelere ainda mais fazendo o tempo deles ser gasto apenas no atendimento.
 
-GOV BR: Base com maior parte das informações de cada individuo brasileiro, capaz de auxiliar na detecção de um estilo de vida, verificando padroes e complementando ainda mais base de dados
+GOV BR: Base com maior parte das informações de cada individuo brasileiro, capaz de auxiliar na detecção de um estilo de vida, verificando padroes e complementando ainda mais base de dados especificas afim da detecção de possíveis soluço~es e problemas futuros.
 
 
 Apresente uma descrição das bases de dados a serem utilizadas. 

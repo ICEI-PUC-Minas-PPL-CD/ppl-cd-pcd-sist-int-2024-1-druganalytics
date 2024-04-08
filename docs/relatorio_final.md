@@ -5,7 +5,7 @@ Thiago Rocha Amaral, thiago.amaral@sga.pucminas.br
 
 Bernardo Costa Lima Bentes, bclbentes@sga.pucminas.br
 
-Rafael Mendes de Lacerda, email do aluno 3**
+Rafael Mendes de Lacerda, rafael.lacerda.1463293@sga.pucminas.br
 
 Iury da Mota Santos, iury.mota@sga.pucminas.br
 
@@ -79,16 +79,19 @@ específicos ou as razões para aprofundar em certos aspectos do software.
 
 
 ##    Público alvo
-O projeto tem como público alvo empresas e organizações do setor da saúde e da estátistica
+Grupos demográficos específicos: Dependendo do contexto, o público-alvo pode incluir grupos demográficos específicos, como adolescentes, jovens adultos, idosos, pessoas de baixa renda, minorias étnicas, etc. Estes grupos podem ser mais suscetíveis ao uso de certas drogas ou enfrentar desafios únicos relacionados ao uso de drogas.
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. 
-O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários 
-na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos 
-usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Profissionais de saúde: Médicos, enfermeiros, farmacêuticos e outros profissionais de saúde podem ser um público-alvo importante, especialmente se a pesquisa se concentrar em políticas de prescrição, tratamento de dependência ou prevenção de overdose.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, 
-diagramas de personas e mapa de stakeholders.
+Profissionais da área de saúde mental: Psicólogos, psiquiatras, assistentes sociais e outros profissionais de saúde mental podem estar interessados em pesquisas sobre o uso de drogas e seu impacto na saúde mental.
+
+Policiais e agentes de aplicação da lei: Se a pesquisa se concentrar em questões legais relacionadas às drogas, o público-alvo pode incluir policiais, agentes de aplicação da lei e funcionários do sistema judiciário.
+
+Educadores e pais: Professores, orientadores escolares, pais e outros responsáveis pela educação de jovens podem ser um público-alvo importante para pesquisas sobre prevenção do uso de drogas e intervenções precoces.
+
+Tomadores de decisão políticos: Políticos, legisladores e formuladores de políticas podem se beneficiar de pesquisas sobre drogas para informar a criação de leis e regulamentos relacionados ao uso de drogas, tratamento de dependência e prevenção.
+
+Pesquisadores e acadêmicos: Outros cientistas e pesquisadores na área da saúde, ciência social e campos relacionados podem ser um público-alvo para estudos sobre drogas, especialmente aqueles que buscam avançar o conhecimento científico sobre o tema.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)

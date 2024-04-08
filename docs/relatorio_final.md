@@ -53,10 +53,6 @@ O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o al
 sucintamente apresentar o cenário de problema da empresa. A empresa só deve ser citada 
 explicitamente se o aluno tiver autorização para tal.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
-
 ###    Objetivo geral
 
 * Implementar um sistema de inteligência artificial que apoie organizações privadas e governamentais, fornecendo dados precisos e fundamentais para a luta contra o vício em substâncias e a reintegração desses indivíduos na sociedade.

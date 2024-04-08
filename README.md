@@ -33,8 +33,16 @@ Serão utiliazados bancos de dados externos para a criação do sistema e dentre
 * IBGE (Instituo Brasileiro de Goegrafia e Estátistica)
 * Health Lake
 
-## Finalidade
-Nosso sistema tem como proposito principal auxiliar entidades privadas e publicas no fornecimento de dados precisos e cruciais para que possam ser desenvolvidas ideias em cima dele, para que o combate a dependência química e a reentrodução dessas pessoas na sociedade seja feita da forma mais efetiva possível. Tendo como auxílio um sistema que agira de maneira rápida, efetiva e que terá informações para que seja capaz de auxiliar diferentes tipos de soluções e propostas que venham a ser pensadas a partir dele. Além disso, como se trata de um sistema inteligente ele também será capaz de relacionar os temas procurados pelo usuário, para fornecer uma informação mais completa e com analíses mais recentes sobre o assunto em questão.
+## Objetivo Geral:
+
+* Implementar um sistema de inteligência artificial que apoie organizações privadas e governamentais, fornecendo dados precisos e fundamentais para a luta contra o vício em substâncias e a reintegração desses indivíduos na sociedade.
+
+## Objetivos Específicos :
+
+* Criar um sistema que opere de forma ágil e eficiente, capaz de apoiar uma variedade de soluções e propostas.
+* Assegurar que o sistema possa correlacionar os tópicos pesquisados pelo usuário, oferecendo informações mais abrangentes e análises atualizadas sobre o tema em questão.
+* Utilizar dados para gerar conceitos que possam auxiliar na luta contra o vício em substâncias.
+* Promover a reintegração eficaz de pessoas viciadas na sociedade através do uso de dados precisos e vitais.
 
 ## Instruções de utilização
 

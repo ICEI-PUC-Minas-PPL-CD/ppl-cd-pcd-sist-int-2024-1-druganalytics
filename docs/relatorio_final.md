@@ -3,7 +3,7 @@
 
 Thiago Rocha Amaral, thiago.amaral@sga.pucminas.br
 
-Bernardo Costa Lima Bentes, email do aluno 2**
+Bernardo Costa Lima Bentes, bclbentes@sga.pucminas.br
 
 Rafael Mendes de Lacerda, email do aluno 3**
 

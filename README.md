@@ -28,7 +28,6 @@ Além disse, será utilizado outros tipos de dados para enriquecer a base, como:
 ## Banco de Dados
 Serão utiliazados bancos de dados externos para a criação do sistema e dentre eles alguns bastante famosos como:
 
-* UNODC (United Nations Office on Drugs and Crime)
 * GOV BR (Ministério dao Desenvolvimento e Assistência Social, Família e Combate à Fome)
 * IBGE (Instituo Brasileiro de Goegrafia e Estátistica)
 * Health Lake

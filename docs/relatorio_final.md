@@ -7,7 +7,7 @@ Bernardo Costa Lima Bentes, email do aluno 2**
 
 Rafael Mendes de Lacerda, email do aluno 3**
 
-Iury da Mota Santos, email do aluno 4**
+Iury da Mota Santos, iury.mota@sga.pucminas.br
 
 Artur Braga Mota, artur.braga@sga.pucminas.br
 

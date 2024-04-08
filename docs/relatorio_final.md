@@ -110,14 +110,6 @@ Utilize a análise descritiva baseada em estatística de primeira ordem para des
 GOV BR: Base com maior parte das informações de cada individuo brasileiro, capaz de auxiliar na detecção de um estilo de vida, verificando padroes e complementando ainda mais base de dados especificas afim da detecção de possíveis soluço~es e problemas futuros.
 
 
-Apresente uma descrição das bases de dados a serem utilizadas. 
-Dicionários de dados devem conter as bases de dados, os nomes dos atributos 
-com seu significado, seu tipo (inteiro, real, textual, categórico, etc).
-
-Este projeto deve utilizar pelo menos duas fontes de dados. Uma fonte principal e 
-uma fonte para enriquecimentos dos dados principais.
-
-
 ###    Descrição de dados
 
 Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados.

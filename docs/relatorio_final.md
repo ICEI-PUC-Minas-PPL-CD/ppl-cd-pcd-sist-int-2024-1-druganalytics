@@ -33,15 +33,10 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## Introdução
 
-A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. 
-
-###    Contextualização
-
-Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
-
-O nosso trabalho é focado em desenvolver um sistema inteligente capaz de analisar bancos de dados existentes e oferecer um feedback personalizado de acordo com o interresse do usuário, seja ele uma entidade privada ou pública. O sistema será desenvolvido para análises de grande quantidade de dados, tendo como base bancos de dados de credibilidade e com uma frequência constante de atualizações dos dados que estaram à disposição do cliente.
+Atualmente, vivemos em um mundo onde as drogas representam um dos principais problemas da sociedade mundial quando se analisa o cenário global. De acordo com o relatório da United Nations Office on Drugs and Crime (UNODC), divulgado em junho de 2023, o número de pessoas que sofrem de transtornos associados ao uso de drogas subiu para 39,5 milhões, um aumento de 45% em 10 anos.
+Olhando um pouco mais para o nosso país, o problema é nítido e preocupante, tendo em vista que o Brasil é o segundo maior consumidor de cocaína e seus derivados entre todos os países do mundo, segundo uma pesquisa feita pela Unifesp com dados da Organização Mundial da Saúde (OMS). Esses dados são alarmantes e levantam várias questões sobre o que podemos fazer para melhorar essa perspectiva.
+Diante desse cenário, nosso trabalho está focado em desenvolver um sistema inteligente capaz de analisar bancos de dados existentes e oferecer um feedback personalizado de acordo com o interesse do usuário, seja ele uma entidade privada ou pública. O sistema será desenvolvido para análise de grande quantidade de dados, baseando-se em bancos de dados de credibilidade e com uma frequência constante de atualizações dos dados que estarão à disposição do cliente.
+A ideia é centralizar os dados em um único lugar para que, por meio deles, medidas mais assertivas possam ser tomadas e para que o índice de eficácia seja o mais próximo do projetado, atacando diretamente problemas relacionados à dependência química que são continuamente vistos nos jornais, noticiários e, principalmente, nas ruas dia após dia.
 
 ###    Problema
 

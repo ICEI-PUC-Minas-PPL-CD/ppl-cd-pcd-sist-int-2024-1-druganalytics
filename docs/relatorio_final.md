@@ -68,10 +68,6 @@ explicitamente se o aluno tiver autorização para tal.
 * Utilizar dados para gerar conceitos que possam auxiliar na luta contra o vício em substâncias.
 * Promover a reintegração eficaz de pessoas viciadas na sociedade através do uso de dados precisos e vitais.
 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-
 ###    Justificativas
 
 Mostre também as **justificativas** para o  desenvolvimento do seu trabalho e, caso deseje, 

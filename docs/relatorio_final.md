@@ -43,15 +43,7 @@ A ideia é centralizar os dados em um único lugar para que, por meio deles, med
 
 ###    Problema
 
-Nesse momento você deve apresentar o problema que seu agente pretende resolver. 
-No entanto, não é a hora de comentar sobre a aplicação.
-Descreva também o contexto em que essa aplicação será usada, se  houver: 
-empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, 
-pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve 
-sucintamente apresentar o cenário de problema da empresa. A empresa só deve ser citada 
-explicitamente se o aluno tiver autorização para tal.
+Com base nas informações apresentadas anteriormente, podemos afirmar com clareza que nosso sistema será uma parte fundamental para resolver o problema do crescimento do número de usuários de drogas no Brasil e no mundo, o qual tem alarmado especialistas e analistas sobre o futuro em relação às drogas. Assim, o sistema será aplicado em empresas que atuem na área de estatística, saúde e segurança, fornecendo a tecnologia necessária e qualificada para que elas tenham auxílio na hora de extrair as informações a partir do máximo de dados disponíveis e correlacionados.
 
 ###    Objetivo geral
 

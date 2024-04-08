@@ -35,6 +35,8 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. 
 
+O nosso trabalho é focado em desenvolver um sistema inteligente capaz de analisar diversos bancos de dados existentes e oferecer um feedback personalizado de acordo com o interresse do usuário, seja ele uma entidade privada ou pública. O sistema será desenvolvido para análises de grande quantidade de dados, tendo como base bancos de dados de credibilidade e com uma frequência constante de atualizações dos dados que estaram à disposição do cliente.
+
 ###    Contextualização
 
 Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 

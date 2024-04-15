@@ -82,7 +82,8 @@ Pesquisadores e acadêmicos: Outros cientistas e pesquisadores na área da saúd
 ## Análise exploratórida dos dados
 
 ###    Dicionário de dados
-Base de dados 1
+Base de dados 1: GOV BR
+Base de Dados 2: Kaggle
 
 | Atríbuto | Descrição | Tipo de dado |
 | --- | --- | --- |
@@ -94,12 +95,6 @@ Base de dados 1
 | Idade | A idade dos usuários em média | Númerico |
 
 
-
-
-
-
-
-GOV BR: Base com maior parte das informações de cada individuo brasileiro, capaz de auxiliar na detecção de um estilo de vida, verificando padroes e complementando ainda mais base de dados especificas afim da detecção de possíveis soluço~es e problemas futuros.
 
 
 ###    Descrição de dados

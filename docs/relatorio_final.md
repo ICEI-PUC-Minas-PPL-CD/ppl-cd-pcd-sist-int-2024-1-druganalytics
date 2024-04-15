@@ -107,7 +107,7 @@ Dados numéricos:
 
  -Sexo: masculino ou feminino
  -Faixa etária: faixa etária dos usuários
- -
+ 
 
  
 ###    Dados Qualitativos:

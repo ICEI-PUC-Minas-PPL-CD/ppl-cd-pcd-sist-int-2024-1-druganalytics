@@ -98,6 +98,18 @@ Base de Dados 2: Kaggle
 
 
 ###    Descrição de dados
+Dados Númericos:
+-
+-
+-
+-
+-
+Dados Quantitativos:
+-
+-
+-
+-
+-
 
 Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados.
 Como descrever dados numéricos: média, desvio padrão, mínimo, máximo, quartis, histograma, etc.

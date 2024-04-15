@@ -98,13 +98,13 @@ Base de Dados 2: Kaggle
 
 
 ###    Descrição de dados
-Dados Númericos:
+###    Dados Númericos:
 -
 -
 -
 -
 -
-Dados Quantitativos:
+###    Dados Qualitativos:
 -
 -
 -

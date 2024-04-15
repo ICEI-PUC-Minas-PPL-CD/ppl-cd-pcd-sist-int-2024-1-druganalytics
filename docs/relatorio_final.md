@@ -83,6 +83,7 @@ Pesquisadores e acadêmicos: Outros cientistas e pesquisadores na área da saúd
 
 ###    Dicionário de dados
 Base de dados 1: GOV BR
+
 Base de Dados 2: Kaggle
 
 | Atríbuto | Descrição | Tipo de dado |
@@ -93,7 +94,7 @@ Base de Dados 2: Kaggle
 | Dificuldade | Observa as dificuldades e desafios para a superação do vício | Númerico |
 | Sexo | O sexo dos usuários | Textual |
 | Idade | A idade dos usuários em média | Númerico |
-
+| Renda | Classificação em relação a renda | Númerico |
 
 
 

@@ -101,9 +101,9 @@ Base de Dados 2: Kaggle
 ###    Dados Númericos:
 
 - pessoas a cada mil habitantes em situição de vicio
--expectativa de vida média de um usuário
--Sexo: masculino ou feminino
--Faixa etária: faixa etária dos usuários
+- expectativa de vida média de um usuário
+- Sexo: masculino ou feminino
+- Faixa etária: faixa etária dos usuários
  
 
  

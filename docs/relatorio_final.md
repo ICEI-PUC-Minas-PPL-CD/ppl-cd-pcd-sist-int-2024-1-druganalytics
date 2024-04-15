@@ -83,11 +83,13 @@ Pesquisadores e acadêmicos: Outros cientistas e pesquisadores na área da saúd
 
 ###    Dicionário de dados
 
-| Atríbuto |                                      Descrição                                                      |  Tipo de dado |
-| Necessidade  | Atributo que observa o quanto o indivíduo sente a necessidade do uso numa escala de "1" a "10"; |  Num Int |
-| Frequência   | Atributo que observa a frequência do uso da substância. | Num Int |
-| Relações | Atributo que observa a relação do uso com as relações pessoais/profissionais do indivíduo. | Num Int |
-| Dificuldade  | Atributo que observa as dificuldades e desafios para a superação do vício. |  Num Int |
+| Atríbuto | Descrição | Tipo de dado |
+| --- | --- | --- |
+| Necessidade | Atributo que observa o quanto o indivíduo sente a necessidade do uso numa escala de "1" a "10" | Número Inteiro |
+| Frequência | Atributo que observa a frequência do uso da substância | Número Inteiro |
+| Relações | Atributo que observa a relação do uso com as relações pessoais/profissionais do indivíduo | Número Inteiro |
+| Dificuldade | Atributo que observa as dificuldades e desafios para a superação do vício | Número Inteiro |
+
 
 
 

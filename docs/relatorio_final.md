@@ -83,13 +83,12 @@ Pesquisadores e acadêmicos: Outros cientistas e pesquisadores na área da saúd
 
 ###    Dicionário de dados
 
-| Atríbuto | Description | Description |
-| --- | --- | --- |
-| x | --- | --- |
-| y | --- | --- |
-| z | --- | --- |
-| y | --- | --- |
-| y | --- | --- |
+| Atríbuto |                                      Descrição                                                      |  Tipo de dado |
+| Necessidade  | Atributo que observa o quanto o indivíduo sente a necessidade do uso numa escala de "1" a "10"; |  Num Int |
+| Frequência   | Atributo que observa a frequência do uso da substância. | Num Int |
+| Relações | Atributo que observa a relação do uso com as relações pessoais/profissionais do indivíduo. | Num Int |
+| Dificuldade  | Atributo que observa as dificuldades e desafios para a superação do vício. |  Num Int |
+
 
 
 Healthlake: Criada pela amazon em conjunto com Sírio-Libanês é a primeira base de dados focada em saúde do Brasil. Armazenar informações dos pacientes com o objetivo de digitalizar e otimizar os atendimentos. 

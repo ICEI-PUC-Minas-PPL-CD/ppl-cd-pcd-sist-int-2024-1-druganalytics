@@ -108,10 +108,10 @@ Base de Dados 2: Kaggle
 
  
 ###    Dados Qualitativos:
--Qual droga é a mais utilizada 
-- Quem utiliza mais droga, o homem ou a mulher ?
-- Qual droga faz as pessoas irem buscar ajuda nos hospitais
-- Qual droga é a mais (viciante)
+-Droga mais utilizada
+- droga homem ou mulher
+- droga hospital
+- droga vicio
 - Localidade: área da cidade onde usuários vivem
 
 Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados.

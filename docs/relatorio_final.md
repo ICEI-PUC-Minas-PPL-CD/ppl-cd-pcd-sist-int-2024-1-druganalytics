@@ -96,7 +96,7 @@ Base de Dados 2: Kaggle
 | Idade | A idade dos usuários em média | Númerico |
 | Renda | Classificação em relação a renda | Númerico |
 | Influencia/Maturidade | Atributo que observa se a idade do individuo foi um determinante para o uso ou nao. | Númerico |
-
+| Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
 
 ###    Descrição de dados
 ###    Dados Númericos:

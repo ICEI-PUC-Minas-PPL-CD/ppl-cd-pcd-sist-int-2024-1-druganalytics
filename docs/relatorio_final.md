@@ -88,7 +88,7 @@ Base de Dados 2: Kaggle
 | Atríbuto | Descrição | Tipo de dado |
 | --- | --- | --- |
 | Necessidade |Observa o quanto o indivíduo sente a necessidade do uso numa escala de "1" a "10" | Númerico |
-| Frequência | Observa a frequência do uso da substância | Número Inteiro |
+| Frequência | Observa a frequência do uso da substância | Númerico |
 | Relações | Observa a relação do uso com as relações pessoais/profissionais do indivíduo | Númerico |
 | Dificuldade | Observa as dificuldades e desafios para a superação do vício | Númerico |
 | Sexo | O sexo dos usuários | Textual |

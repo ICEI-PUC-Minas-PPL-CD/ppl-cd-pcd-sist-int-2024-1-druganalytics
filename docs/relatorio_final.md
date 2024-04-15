@@ -100,15 +100,22 @@ Base de Dados 2: Kaggle
 ###    Descrição de dados
 ###    Dados Númericos:
 -
--
--
--
--
+
+
+
+Dados numéricos:
+
+ -Sexo: masculino ou feminino
+ -Faixa etária: faixa etária dos usuários
+ -
+
+ 
 ###    Dados Qualitativos:
 -Qual droga é a mais utilizada 
 - Quem utiliza mais droga, o homem ou a mulher ?
 - Qual droga faz as pessoas irem buscar ajuda nos hospitais
 - Qual droga é a mais (viciante)
+- Localidade: área da cidade onde usuários vivem
 
 Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados.
 Como descrever dados numéricos: média, desvio padrão, mínimo, máximo, quartis, histograma, etc.

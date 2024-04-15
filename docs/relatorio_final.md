@@ -95,7 +95,7 @@ Base de Dados 2: Kaggle
 | Sexo | O sexo dos usuários | Textual |
 | Idade | A idade dos usuários em média | Númerico |
 | Renda | Classificação em relação a renda | Númerico |
-
+| Influencia/Maturidade | Atributo que observa se a idade do individuo foi um determinante para o uso ou nao. | Númerico |
 
 
 ###    Descrição de dados

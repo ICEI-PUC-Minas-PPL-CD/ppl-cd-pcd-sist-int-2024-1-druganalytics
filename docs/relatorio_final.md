@@ -19,7 +19,7 @@ Prof. Hugo Bastos de Paula
 
 ---
 
-_Curso de Ciência de Dados, Unidade Praça da Liberdade_
+_Curso de Ciência de Dados, Unidade Praça da Liberdade_ 
 
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
@@ -97,6 +97,10 @@ Base de Dados 2: Kaggle
 | Renda | Classificação em relação a renda | Númerico |
 | Influencia/Maturidade | Atributo que observa se a idade do individuo foi um determinante para o uso ou nao. | Númerico |
 | Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
+| Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
+
+
+
 
 ###    Descrição de dados
 ###    Dados Númericos:

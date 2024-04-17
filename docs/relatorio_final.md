@@ -127,7 +127,7 @@ Como descrever dados qualitativos (categóricos): moda (valor mais frequente), q
 ![Comparação entre gênero e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Genero%20e%20frequencia%20de%20uso.png?raw=true)
 ![Comparação entre educação e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Educacao%20e%20frequencia%20de%20uso.png?raw=true)
 ![Comparação entre países e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Pais%20e%20frequencia%20de%20uso.png?raw=true)
-
+![Comparação entre etnias e a frequência de uso de ecstasy.]
 
 
 

@@ -123,9 +123,9 @@ Utilize a análise descritiva baseada em estatística de primeira ordem para des
 Como descrever dados numéricos: média, desvio padrão, mínimo, máximo, quartis, histograma, etc.
 Como descrever dados qualitativos (categóricos): moda (valor mais frequente), quantidade de valores distintos (categorias), distribuição das categorias (histograma), etc.
 
-###    Comparação entre idade e a frequência de uso de ecstasy.
-![Comparação entre idade e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Idade%20frequencia%20de%20uso.png?raw=true](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Idade%20frequencia%20de%20uso.png?raw=true))
-| ###    Comparação entre gênero e a frequência de uso de ecstasy. | ###    Comparação entre gênero e a frequência de uso de Alcool. |
+| ###    Comparação entre idade e a frequência de uso de ecstasy. | ###    Comparação entre idade e a frequência de uso de Alcool. |
+|![Comparação entre idade e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Idade%20frequencia%20de%20uso.png?raw=true](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Idade%20frequencia%20de%20uso.png?raw=true)) | ![Comparação entre idade e a frequência de uso de Alcool.](
+| ###    Comparação entre gênero e a frequência de uso de ecstasy. | ###    Comparação entre gênero e a frequência de uso de Alcool. | 
 | --- | --- |
 | ![Comparação entre gênero e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Genero%20e%20frequencia%20de%20uso.png?raw=true) | ![Comparação entre gênero e a frequência de uso de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Alcool%20e%20genero.png?raw=true) |
 |  |  |

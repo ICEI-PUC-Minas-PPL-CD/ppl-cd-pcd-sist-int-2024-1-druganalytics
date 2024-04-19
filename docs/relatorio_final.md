@@ -142,7 +142,7 @@ Como descrever dados qualitativos (categóricos): moda (valor mais frequente), q
 
 
 
-https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Alcool%20e%20educacao.png?raw=true
+
 ## Preparação dos dados
 
 A preparação dos dados consiste dos seguintes passos:

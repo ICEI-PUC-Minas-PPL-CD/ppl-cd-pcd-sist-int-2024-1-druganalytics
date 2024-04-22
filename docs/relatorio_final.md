@@ -93,11 +93,12 @@ Base de Dados 2: Kaggle
 | Relações | Observa a relação do uso com as relações pessoais/profissionais do indivíduo | Númerico |
 | Dificuldade | Observa as dificuldades e desafios para a superação do vício | Númerico |
 | Sexo | O sexo dos usuários | Textual |
-| Idade | A idade dos usuários em média | Númerico |
+| Faixa etária | A idade dos usuários em média | Númerico |
 | Renda | Classificação em relação a renda | Númerico |
 | Influencia/Maturidade | Atributo que observa se a idade do individuo foi um determinante para o uso ou nao. | Númerico |
 | Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
 | Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
+| Região | Região onde há maior número de usuários | textual |
 
 
 

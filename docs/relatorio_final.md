@@ -102,8 +102,6 @@ Base de Dados 2: Kaggle
 | Assistência | Quantas vezes o usuário ja recebeu auxílio de ajuda especializada | Nuérico |
 
 
-
-
 ###    Descrição de dados
 ###    Dados Númericos:
 
@@ -112,7 +110,6 @@ Base de Dados 2: Kaggle
 - Sexo: masculino ou feminino
 - Faixa etária: faixa etária dos usuários
  
-
  
 ###    Dados Qualitativos:
 -Droga mais utilizada
@@ -121,9 +118,17 @@ Base de Dados 2: Kaggle
 - droga vicio
 - Localidade: área da cidade onde usuários vivem
 
-Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados.
-Como descrever dados numéricos: média, desvio padrão, mínimo, máximo, quartis, histograma, etc.
-Como descrever dados qualitativos (categóricos): moda (valor mais frequente), quantidade de valores distintos (categorias), distribuição das categorias (histograma), etc.
+
+| Atríbuto | Descrição | Tipo de dado |
+| --- | --- | --- |
+| Frequência | Observa a frequência do uso da substância | Númerico |
+| Sexo | O sexo dos usuários | Textual |
+| Faixa etária | A idade dos usuários em média | Númerico |
+| Renda | Classificação em relação a renda | Númerico |
+| Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
+| Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
+| Região | Região onde há maior número de usuários | Textual |
+
 
 |     Comparação entre idade e a frequência de uso de ecstasy. |  Comparação entre idade e a frequência de uso de Alcool. |
 | --- | --- |
@@ -141,8 +146,6 @@ Como descrever dados qualitativos (categóricos): moda (valor mais frequente), q
 ![Comparação entre países e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Pais%20e%20frequencia%20de%20uso.png?raw=true)
 ###    Comparação entre etnias e a frequência de uso de ecstasy.
 ![Comparação entre etnias e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Etnias%20e%20a%20frequencia%20de%20uso.png?raw=true)
-
-
 
 
 ## Preparação dos dados

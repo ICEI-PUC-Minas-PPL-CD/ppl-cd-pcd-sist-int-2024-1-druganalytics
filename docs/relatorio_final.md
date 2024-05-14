@@ -99,7 +99,7 @@ Base de Dados 2: Kaggle
 | Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
 | Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
 | Região | Região onde há maior número de usuários | Textual |
-| Assistência | Quantas vezes o usuário ja recebeu auxílio de ajuda especializada | Nuérico |
+| Assistência | Quantas vezes o usuário ja recebeu auxílio de ajuda especializada | Numérico |
 
 
 ###    Descrição de dados

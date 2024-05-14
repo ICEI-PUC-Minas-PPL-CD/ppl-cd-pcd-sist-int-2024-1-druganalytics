@@ -172,7 +172,7 @@ Base de Dados 2: Kaggle
 ![Relação entre o Ascore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ascore.png?raw=true)
 
 ###    Relação entre a Cscore e o Consumo de Alcool.
-![Relação entre o Cscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ascore.png?raw=true)
+![Relação entre o Cscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Cscore.png?raw=true)
 
 
 

@@ -162,7 +162,7 @@ Base de Dados 2: Kaggle
 ![Relação entre o neuroticismo e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Rnc.png?raw=true)
 
 ###    Relação entre a extroversão e o Consumo de Alcool.
-![Relação entre o extroversão e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Rnc.png?raw=true)
+![Relação entre o extroversão e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ena.png?raw=true)
 
 
 ## Preparação dos dados

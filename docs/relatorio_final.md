@@ -100,6 +100,10 @@ Base de Dados 2: Kaggle
 | Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
 | Região | Região onde há maior número de usuários | Textual |
 | Assistência | Quantas vezes o usuário ja recebeu auxílio de ajuda especializada | Numérico |
+| Nscore | Indivíduos com pontuação alta em neuroticismo têm maior probabilidade do que a média de serem mal-humorados e de experimentar sentimentos como ansiedade, preocupação, medo, raiva, frustração, inveja, ciúme, culpa, humor deprimido e solidão. | Númerico |
+| Escore | Uma pessoa com pontuação alta em extroversão em um teste de personalidade é a vida da festa. Gostam de estar com as pessoas, de participar de reuniões sociais e são cheios de energia. | Númerico |
+
+
 
 
 ###    Descrição de dados
@@ -128,7 +132,7 @@ Base de Dados 2: Kaggle
 | Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
 | Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
 | Região | Região onde há maior número de usuários | Textual |
-| Nscore | Indivíduos com pontuação alta em neuroticismo têm maior probabilidade do que a média de serem mal-humorados e de experimentar sentimentos como ansiedade, preocupação, medo, raiva, frustração, inveja, ciúme, culpa, humor deprimido e solidão. | Númerico |
+
 
 
 

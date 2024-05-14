@@ -158,7 +158,7 @@ Base de Dados 2: Kaggle
 ###    Comparação entre etnias e a frequência de uso de ecstasy.
 ![Comparação entre etnias e a frequência de uso de ecstasy.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Etnias%20e%20a%20frequencia%20de%20uso.png?raw=true)
 
-###    Comparação entre etnias e a frequência de uso de ecstasy.
+###    Relação entre o neuroticismo e o Consumo de Alcool.
 ![Relação entre o neuroticismo e o Consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Rnc.png?raw=true)
 
 

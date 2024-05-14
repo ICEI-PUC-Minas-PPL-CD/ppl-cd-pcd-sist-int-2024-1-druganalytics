@@ -165,7 +165,9 @@ Base de Dados 2: Kaggle
 ![Relação entre o extroversão e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ena.png?raw=true)
 
 ###    Relação entre a Oscore e o Consumo de Alcool.
-![Relação entre o Oscore e o consumo de Alcool.](
+![Relação entre o Oscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Oscore.png?raw=true)
+
+
 
 ## Preparação dos dados
 

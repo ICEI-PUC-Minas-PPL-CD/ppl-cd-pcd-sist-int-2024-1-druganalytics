@@ -175,9 +175,9 @@ Base de Dados 2: Kaggle
 ![Relação entre a Cscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Cscore.png?raw=true)
 
 ###    Relação entre a Impulsive e o Consumo de Alcool.
-![Relação entre a Impulsive e o consumo de Alcool.]
+![Relação entre a Impulsive e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Impulsive.png?raw=true)
 
-https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Impulsive.png?raw=true
+
 
 
 

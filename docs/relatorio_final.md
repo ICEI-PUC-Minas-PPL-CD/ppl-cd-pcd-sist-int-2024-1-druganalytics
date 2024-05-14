@@ -163,17 +163,21 @@ Base de Dados 2: Kaggle
 ![Relação entre o neuroticismo e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Rnc.png?raw=true)
 
 ###    Relação entre a extroversão e o Consumo de Alcool.
-![Relação entre o extroversão e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ena.png?raw=true)
+![Relação entre a extroversão e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ena.png?raw=true)
 
-###    Relação entre a Oscore e o Consumo de Alcool.
+###    Relação entre o Oscore e o Consumo de Alcool.
 ![Relação entre o Oscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Oscore.png?raw=true)
 
-###    Relação entre a Ascore e o Consumo de Alcool.
+###    Relação entre o Ascore e o Consumo de Alcool.
 ![Relação entre o Ascore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ascore.png?raw=true)
 
 ###    Relação entre a Cscore e o Consumo de Alcool.
-![Relação entre o Cscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Cscore.png?raw=true)
+![Relação entre a Cscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Cscore.png?raw=true)
 
+###    Relação entre a Impulsive e o Consumo de Alcool.
+![Relação entre a Impulsive e o consumo de Alcool.]
+
+https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Impulsive.png?raw=true
 
 
 

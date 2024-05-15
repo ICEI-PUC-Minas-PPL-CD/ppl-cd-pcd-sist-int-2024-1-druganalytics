@@ -227,6 +227,7 @@ Utilização do método de regressão linear. Primeira Acurácia do modelo.
 
 ### Interpretação do modelo 1
 
+Relacionado a interpretação do primeiro modelo, ao obter o resultado de 40% de precisão conseguimos perceber, mesmo que com o percentual baixo de precisão, é possivel extrair comportamentos entre as relações que foram usadas de parametro (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, Alcool). Em um exemplo específico, como o Nscore, que aborda todo o aspecto neurobiológico do indivíduo, as análises indicam uma correlação significativa entre os dois.
 
 ### Resultados obtidos com o modelo 2.
 

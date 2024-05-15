@@ -232,8 +232,6 @@ A escolha da regressão linear como Modelo 1 baseou-se na sua capacidade de mode
 
 Durante o processo de treinamento, os dados obtidos foram reservados em 20% para dados de teste e 80% para treinamento.
 
-
-
 ### Resultados obtidos com o modelo 2.
 
 Repita o passo anterior com os resultados do modelo 2.

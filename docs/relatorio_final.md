@@ -186,7 +186,7 @@ Base de Dados 2: Kaggle
 | Atríbuto | Descrição | Tipo de dado |
 | --- | --- | --- |
 | Nscore | Indivíduos com pontuação alta em neuroticismo têm maior probabilidade do que a média de serem mal-humorados e de experimentar sentimentos como ansiedade, preocupação, medo, raiva, frustração, inveja, ciúme, culpa, humor deprimido e solidão. | Númerico |
-
+| Escore | Uma pessoa com pontuação alta em extroversão em um teste de personalidade é a vida da festa. Gostam de estar com as pessoas, de participar de reuniões sociais e são cheios de energia. | Númerico |
 
 
 

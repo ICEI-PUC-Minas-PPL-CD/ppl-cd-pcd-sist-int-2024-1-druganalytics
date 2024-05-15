@@ -188,6 +188,7 @@ Base de Dados 2: Kaggle
 | Nscore | Indivíduos com pontuação alta em neuroticismo têm maior probabilidade do que a média de serem mal-humorados e de experimentar sentimentos como ansiedade, preocupação, medo, raiva, frustração, inveja, ciúme, culpa, humor deprimido e solidão. | Númerico |
 | Escore | Uma pessoa com pontuação alta em extroversão em um teste de personalidade é a vida da festa. Gostam de estar com as pessoas, de participar de reuniões sociais e são cheios de energia. | Númerico |
 | Oscore | Uma pessoa com um alto nível de abertura para experiências em um teste de personalidade gosta de experimentar coisas novas. Eles são imaginativos, curiosos e de mente aberta. Indivíduos com baixa abertura à experiência preferem não tentar coisas novas. Eles têm a mente fechada, são literais e gostam de ter uma rotina. | Númerico |
+| Ascore | Uma pessoa com alto nível de agradabilidade em um teste de personalidade geralmente é calorosa, amigável e diplomática. Geralmente têm uma visão otimista da natureza humana e se dão bem com os outros. | Númerico |
 
 
 

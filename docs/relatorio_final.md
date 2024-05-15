@@ -183,6 +183,8 @@ Base de Dados 2: Kaggle
 
 ## Preparação dos dados
 
+## Seleção dos atributos
+
 | Atríbuto | Descrição | Tipo de dado |
 | --- | --- | --- |
 | Nscore | Indivíduos com pontuação alta em neuroticismo têm maior probabilidade do que a média de serem mal-humorados e de experimentar sentimentos como ansiedade, preocupação, medo, raiva, frustração, inveja, ciúme, culpa, humor deprimido e solidão. | Númerico |
@@ -193,7 +195,7 @@ Base de Dados 2: Kaggle
 | Impulsive | Na psicologia, a impulsividade (ou impulsividade) é uma tendência a agir por capricho, exibindo um comportamento caracterizado por pouca ou nenhuma premeditação, reflexão ou consideração das consequências.Se você descreve alguém como impulsivo, quer dizer que ele faz as coisas de repente, sem pensar primeiro nelas com cuidado.  | Númerico |
 | Alcohol | Consumo de Álcool | Númerico |
 
-
+## Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.
 
 A preparação dos dados consiste dos seguintes passos:
 

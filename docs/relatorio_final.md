@@ -197,6 +197,8 @@ Base de Dados 2: Kaggle
 
 ## Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.
 
+![Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Omissos.jpg?raw=true)
+
 
 
 A preparação dos dados consiste dos seguintes passos:

@@ -183,6 +183,15 @@ Base de Dados 2: Kaggle
 
 ## Preparação dos dados
 
+| Atríbuto | Descrição | Tipo de dado |
+| --- | --- | --- |
+| Nscore | Indivíduos com pontuação alta em neuroticismo têm maior probabilidade do que a média de serem mal-humorados e de experimentar sentimentos como ansiedade, preocupação, medo, raiva, frustração, inveja, ciúme, culpa, humor deprimido e solidão. | Númerico |
+
+
+
+
+
+
 A preparação dos dados consiste dos seguintes passos:
 
 > - Seleção dos atributos

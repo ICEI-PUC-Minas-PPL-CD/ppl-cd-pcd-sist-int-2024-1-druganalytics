@@ -201,14 +201,6 @@ Durante a analise e exploração dos dados, foi constatado que nao houveram info
 
 ![Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Omissos.jpg?raw=true)
 
-A preparação dos dados consiste dos seguintes passos:
-
-> - Seleção dos atributos
-> - Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.
-> - Tratamento dos valores inconsistentes: conversão, remoção de dados duplicados, remoção ou tratamento de ouliers.
-> - Conversão de dados: p. ex. numérico para categórico, categórico para binário, etc.
-
-
 ## Indução de modelos
 
 ### Modelo 1: Algoritmo

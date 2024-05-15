@@ -191,7 +191,7 @@ Base de Dados 2: Kaggle
 | Ascore | Uma pessoa com alto nível de agradabilidade em um teste de personalidade geralmente é calorosa, amigável e diplomática. Geralmente têm uma visão otimista da natureza humana e se dão bem com os outros. | Númerico |
 | Cscore | Uma pessoa com pontuação alta em consciência geralmente possui um alto nível de autodisciplina. Esses indivíduos preferem seguir um plano, em vez de agir espontaneamente.  | Númerico |
 | Impulsive | Na psicologia, a impulsividade (ou impulsividade) é uma tendência a agir por capricho, exibindo um comportamento caracterizado por pouca ou nenhuma premeditação, reflexão ou consideração das consequências.Se você descreve alguém como impulsivo, quer dizer que ele faz as coisas de repente, sem pensar primeiro nelas com cuidado.  | Númerico |
-
+| Alcohol | Consumo de Álcool | Númerico |
 
 
 

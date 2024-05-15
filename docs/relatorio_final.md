@@ -197,6 +197,8 @@ Base de Dados 2: Kaggle
 
 ## Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.
 
+
+
 A preparação dos dados consiste dos seguintes passos:
 
 > - Seleção dos atributos

@@ -225,9 +225,6 @@ Utilização do método de regressão linear. Primeira Acurácia do modelo.
 
 ### Interpretação do modelo 1
 
-A escolha da regressão linear como Modelo 1 baseou-se na sua capacidade de modelar de forma linear entre as variáveis. Como nosso objetivo é prever o consumo de álcool com base em características individuais, a regressão linear é apropriada, pois permite interpretar o impacto de cada variável independente de forma direta e transparente.
-
-Durante o processo de treinamento, os dados obtidos foram reservados em 20% para dados de teste e 80% para treinamento.
 
 ### Resultados obtidos com o modelo 2.
 

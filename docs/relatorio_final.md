@@ -228,10 +228,8 @@ Utilização do método de regressão linear. Primeira Acurácia do modelo.
 
 ### Interpretação do modelo 1
 
-Apresente os parâmetros do modelo obtido. Tentre mostrar as regras que são utilizadas no
-processo de 'raciocínio' (*reasoning*) do sistema inteligente. Utilize medidas como 
-o *feature importances* para tentar entender quais atributos o modelo se baseia no
-processo de tomada de decisão.
+A escolha da regressão linear como Modelo 1 baseou-se na sua capacidade de modelar de forma linear entre as variáveis. Como nosso objetivo é prever o consumo de álcool com base em características individuais, a regressão linear é apropriada, pois permite interpretar o impacto de cada variável independente de forma direta e transparente.
+
 
 
 ### Resultados obtidos com o modelo 2.

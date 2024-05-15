@@ -220,7 +220,7 @@ Repita os passos anteriores para o segundo modelo.
 
 Utilização do método de regressão linear. Primeira Acurácia do modelo.
 
-![Algoritmo de regressao.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Algoritmo%20de%20regressao.jpeg?raw=true)
+![Algoritmo de regressao.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Algoritmo%20de%20regressao.jpeg%202.jpeg?raw=true)
 
 ![Resultados obtidos com o modelo 1.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Acuracia%201.png?raw=true)
 

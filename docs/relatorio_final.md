@@ -203,14 +203,10 @@ Durante a analise e exploração dos dados, foi constatado que nao houveram info
 
 ## Indução de modelos
 
-### Modelo 1: Algoritmo
+### Modelo 1: Regressão linear.
 
-Substitua o título pelo nome do algoritmo que será utilizado. P. ex. árvore de decisão, rede neural, SVM, etc.
-Justifique a escolha do modelo.
-Apresente o processo utilizado para amostragem de dados (particionamento, cross-validation).
-Descreva os parâmetros utilizados. 
-Apresente trechos do código utilizado comentados. Se utilizou alguma ferramenta gráfica, apresente imagens
-com o fluxo de processamento.
+A escolha da regressão linear como Modelo 1 baseou-se na sua capacidade de modelar de forma linear entre as variáveis. Como nosso objetivo é prever o consumo de álcool com base em características individuais, a regressão linear é apropriada, pois permite interpretar o impacto de cada variável independente de forma direta e transparente.
+
 
 ### Modelo 2: Algoritmo
 

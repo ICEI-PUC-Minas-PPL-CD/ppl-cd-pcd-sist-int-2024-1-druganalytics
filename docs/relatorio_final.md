@@ -165,7 +165,6 @@ Base de Dados 2: Kaggle
 - Baixa Concentração: 2º e 3° linhas
 - Leve Concentração: 4° linha 
 - Alta Concentração: 1°, 5°, 6° e 7° linhas
-
 - (alta quantidade de dados nas linhas 4, 5 e 6)
 
 ###    Relação entre a extroversão e o Consumo de Alcool.
@@ -174,7 +173,6 @@ Base de Dados 2: Kaggle
 - Baixa Concentração: 2º, 3° e 4° linhas
 - Leve Concentração: 1°, 5°, 6° e 7° linhas 
 - Alta Concentração: Nenhuma
-
 - (alta quantidade de dados nas linhas 5, 6 e 7)
 
 ###    Relação entre o Oscore e o Consumo de Alcool.
@@ -183,7 +181,6 @@ Base de Dados 2: Kaggle
 - Baixa Concentração: 2º, 3° e 4° linhas
 - Leve Concentração: 1°, 5°, 6° e 7° linhas 
 - Alta Concentração: Nenhuma
-
 - (alta quantidade de dados nas linhas 5, 6 e 7)
 
 ###    Relação entre o Ascore e o Consumo de Alcool.
@@ -192,7 +189,6 @@ Base de Dados 2: Kaggle
 - Baixa Concentração: 2º, 3° e 4° linhas
 - Leve Concentração: 1° linha
 - Alta Concentração: 5°, 6° e 7° linhas
-
 - (alta quantidade de dados nas linhas 5, 6 e 7)
 
 ###    Relação entre a Cscore e o Consumo de Alcool.
@@ -201,7 +197,6 @@ Base de Dados 2: Kaggle
 - Baixa Concentração: 2º, 3° e 4° linhas
 - Leve Concentração: 1° linha
 - Alta Concentração: 5°, 6° e 7° linhas
-
 - (alta quantidade de dados nas linhas 1, 5, 6 e 7)
 
 ###    Relação entre a Impulsive e o Consumo de Alcool.
@@ -210,7 +205,6 @@ Base de Dados 2: Kaggle
 - Baixa Concentração: Todas as linhas
 - Leve Concentração: Nenhuma
 - Alta Concentração: Nenhuma
-
 - (quantidade de dados muito espalhadas em todas as linhas)
 
 
@@ -234,6 +228,11 @@ Durante a analise e exploração dos dados, foi constatado que nao houveram info
 
 ![Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Omissos.jpg?raw=true)
 
+-A tabela acima mostra todos os dados utilizados durante o trabalho, entre eles se encontram divididos por três seleções de atributos: 
+-Atributos Iniciais: ID, Age, Gender, Education, Country, Ethnicity
+-Atributos Criados para Analise Nsscore, Escore, Oscore, Ascore, Cscore, Impulsive
+-Os Tipos de Drogas Analisadas: Alcohol, Ecstasy...
+
 ## Indução de modelos
 
 ### Modelo 1: Regressão linear.
@@ -253,10 +252,15 @@ Repita os passos anteriores para o segundo modelo.
 
 Utilização do método de regressão linear. Primeira Acurácia do modelo.
 
+-Código do modelo de regressão linear
+
 ![Algoritmo de regressao.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Algoritmo%20de%20regressao.jpeg%202.jpeg?raw=true)
+
+-Gráfico da Acurácia da Regressão Linear
 
 ![Resultados obtidos com o modelo 1.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/Acuracia%202.png?raw=true)
 
+-Acurácia do modelo 1: 0.4
 
 ### Interpretação do modelo 1
 

@@ -228,10 +228,11 @@ Durante a analise e exploração dos dados, foi constatado que nao houveram info
 
 ![Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Omissos.jpg?raw=true)
 
--A tabela acima mostra todos os dados utilizados durante o trabalho, entre eles se encontram divididos por três seleções de atributos: 
--Atributos Iniciais: ID, Age, Gender, Education, Country, Ethnicity
--Atributos Criados para Analise Nsscore, Escore, Oscore, Ascore, Cscore, Impulsive
--Os Tipos de Drogas Analisadas: Alcohol, Ecstasy...
+- A tabela acima mostra todos os dados utilizados durante o trabalho, entre eles se encontram divididos por três seleções de atributos: 
+
+- Atributos Iniciais: ID, Age, Gender, Education, Country, Ethnicity
+- Atributos Criados para Analise Nsscore, Escore, Oscore, Ascore, Cscore, Impulsive
+- Os Tipos de Drogas Analisadas: Alcohol, Ecstasy...
 
 ## Indução de modelos
 

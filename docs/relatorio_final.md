@@ -161,44 +161,50 @@ Base de Dados 2: Kaggle
 
 ###    Relação entre o neuroticismo e o Consumo de Alcool.
 ![Relação entre o neuroticismo e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Rnc.png?raw=true)
-Baixa Concentração: 2º e 3° linhas
-Leve Concentração: 4° linha 
-Alta Concentração: 1°, 5°, 6° e 7° linhas
+
+- Baixa Concentração: 2º e 3° linhas
+- Leve Concentração: 4° linha 
+- Alta Concentração: 1°, 5°, 6° e 7° linhas
 (alta quantidade de dados nas linhas 4, 5 e 6)
 
 ###    Relação entre a extroversão e o Consumo de Alcool.
 ![Relação entre a extroversão e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ena.png?raw=true)
-Baixa Concentração: 2º, 3° e 4° linhas
-Leve Concentração: 1°, 5°, 6° e 7° linhas 
-Alta Concentração: Nenhuma
+
+- Baixa Concentração: 2º, 3° e 4° linhas
+- Leve Concentração: 1°, 5°, 6° e 7° linhas 
+- Alta Concentração: Nenhuma
 (alta quantidade de dados nas linhas 5, 6 e 7)
 
 ###    Relação entre o Oscore e o Consumo de Alcool.
 ![Relação entre o Oscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Oscore.png?raw=true)
-Baixa Concentração: 2º, 3° e 4° linhas
-Leve Concentração: 1°, 5°, 6° e 7° linhas 
-Alta Concentração: Nenhuma
+
+- Baixa Concentração: 2º, 3° e 4° linhas
+- Leve Concentração: 1°, 5°, 6° e 7° linhas 
+- Alta Concentração: Nenhuma
 (alta quantidade de dados nas linhas 5, 6 e 7)
 
 ###    Relação entre o Ascore e o Consumo de Alcool.
 ![Relação entre o Ascore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Ascore.png?raw=true)
-Baixa Concentração: 2º, 3° e 4° linhas
-Leve Concentração: 1° linha
-Alta Concentração: 5°, 6° e 7° linhas
+
+- Baixa Concentração: 2º, 3° e 4° linhas
+- Leve Concentração: 1° linha
+- Alta Concentração: 5°, 6° e 7° linhas
 (alta quantidade de dados nas linhas 5, 6 e 7)
 
 ###    Relação entre a Cscore e o Consumo de Alcool.
 ![Relação entre a Cscore e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Cscore.png?raw=true)
-Baixa Concentração: 2º, 3° e 4° linhas
-Leve Concentração: 1° linha
-Alta Concentração: 5°, 6° e 7° linhas
+
+- Baixa Concentração: 2º, 3° e 4° linhas
+- Leve Concentração: 1° linha
+- Alta Concentração: 5°, 6° e 7° linhas
 (alta quantidade de dados nas linhas 1, 5, 6 e 7)
 
 ###    Relação entre a Impulsive e o Consumo de Alcool.
 ![Relação entre a Impulsive e o consumo de Alcool.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Impulsive.png?raw=true)
-Baixa Concentração: Todas as linhas
-Leve Concentração: Nenhuma
-Alta Concentração: Nenhuma
+
+- Baixa Concentração: Todas as linhas
+- Leve Concentração: Nenhuma
+- Alta Concentração: Nenhuma
 (quantidade de dados muito espalhadas em todas as linhas)
 
 

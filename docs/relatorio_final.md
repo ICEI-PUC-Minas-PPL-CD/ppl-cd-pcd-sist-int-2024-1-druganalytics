@@ -263,7 +263,9 @@ Utilização do método de regressão linear. Primeira Acurácia do modelo.
 
 -Acurácia do modelo 1: 0.4
 
-![Relatorio da classificacao.]
+![Relatorio da classificacao.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Relatorio%20d%20classificacao%5D.jpeg?raw=true)
+
+
 ### Interpretação do modelo 1
 
 Relacionado a interpretação do primeiro modelo, ao obter o resultado de 40% de precisão conseguimos perceber, mesmo que com o percentual baixo de precisão, é possivel extrair comportamentos entre as relações que foram usadas de parametro (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, Alcool). Em um exemplo específico, como o Nscore, que aborda todo o aspecto neurobiológico do indivíduo, as análises indicam uma correlação significativa entre os dois.

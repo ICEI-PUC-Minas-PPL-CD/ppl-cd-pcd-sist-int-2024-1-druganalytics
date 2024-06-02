@@ -275,7 +275,7 @@ F-Score: Com 0.57% de acertividade o treinamento mostrou um equilibrio balancead
 
 É necessario a maximização de precisão e recall para todas as classes.
 
-
+-Matriz de Confusão
 
 ![Matriz de Confusão](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Matriz%20de%20C.jpeg?raw=true)
 

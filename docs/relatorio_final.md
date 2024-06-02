@@ -279,6 +279,9 @@ F-Score: Com 0.57% de acertividade o treinamento mostrou um equilibrio balancead
 
 ![Matriz de Confusão](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Matriz%20de%20C.jpeg?raw=true)
 
+É possivel observar que em quase todas as linhas houveram erros de classificação, os valores estão em classes distintas.
+A parte com maior exploração dentro desta matriz foi na quarta linha que houveram 136 elementos corretamente classificados em suas classes, onde somente 12 elementos foram inchertados dentro desta classe "usou na ultima semana" incorretamente, pois deveriam pertencer a outra classe.
+
 
 ### Interpretação do modelo 1
 

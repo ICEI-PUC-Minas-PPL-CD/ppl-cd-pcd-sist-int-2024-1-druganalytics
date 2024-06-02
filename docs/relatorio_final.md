@@ -251,7 +251,7 @@ Repita os passos anteriores para o segundo modelo.
 
 ### Resultados obtidos com o modelo 1. (Acurácia da Regressão: 0.3994413407821229)
 
-Utilização do método de regressão linear. Primeira Acurácia do modelo.
+Utilização do método de regressão linear. Primeira Acurácia do modelo. Relatorio de Classificação. Matriz de confusão.
 
 -Código do modelo de regressão linear
 
@@ -263,7 +263,17 @@ Utilização do método de regressão linear. Primeira Acurácia do modelo.
 
 -Acurácia do modelo 1: 0.4
 
+-Relatorio de Classificação.
+
 ![Relatorio da classificacao.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Relatorio%20d%20classificacao%5D.jpeg?raw=true)
+
+Precisão: O relatorio junto ao treinamento trouxe uma porcentagem precisa de 41% das instâncias dentro de uma das classificaçoes.
+
+Recall: O relatorio junto ao treinamento trouxe uma porcentagem de 0.92% de acertividade em relação ao conjunto presente verificado.
+
+F-Score: Com 0.57% de acertividade o treinamento mostrou um equilibrio balanceado entre as métricas precisão e recall.
+
+É necessario a maximização de precisão e recall para todas as classes.
 
 
 ### Interpretação do modelo 1

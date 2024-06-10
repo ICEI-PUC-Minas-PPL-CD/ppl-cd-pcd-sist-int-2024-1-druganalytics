@@ -291,7 +291,7 @@ Relacionado a interpretação do primeiro modelo, ao obter o resultado de 40% de
 
 ### Resultados obtidos com o modelo 2. (Acurácia do GradientBoosting: 0.83 > Heroin) (Acurácia do GradientBoosting: 0.37 > Alcool) 
 
-Utilização do método de GradientBoosting. Cross validation. Segunda Acurácia do modelo. Relatorio de Classificação. Matriz de confusão.
+Utilização do método de GradientBoosting. Localizar as strings classificatórias e substituí-las por valores numéricos. Cross validation. Segunda Acurácia do modelo. Relatorio de Classificação. 
 
 -Código do modelo de GradientBoosting. 
 

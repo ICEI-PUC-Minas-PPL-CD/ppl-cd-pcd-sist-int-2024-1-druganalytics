@@ -242,6 +242,12 @@ A escolha da regressão linear como Modelo 1 baseou-se na sua capacidade de mode
 
 Durante o processo de treinamento, os dados obtidos foram reservados em 20% para dados de teste e 80% para treinamento.
 
+
+### Modelo 2: GradientBoosting.
+
+A escolha do GradientBoosting como Modelo 2, foi decidida, pela capacidade construtiva a partir de árvores de decisão sequenciais. O objetivo continuou a prever o consumo de x substância  com base nas caracteristicas indivividuais de cada participante inscrito dentro do dataset.
+
+
 ## Resultados
 
 ### Resultados obtidos com o modelo 1. (Acurácia da Regressão: 0.3994413407821229)
@@ -282,9 +288,6 @@ A parte com maior exploração dentro desta matriz foi na quarta linha que houve
 
 Relacionado a interpretação do primeiro modelo, ao obter o resultado de 40% de precisão conseguimos perceber, mesmo que com o percentual baixo de precisão, é possivel extrair comportamentos entre as relações que foram usadas de parametro (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, Alcool). Em um exemplo específico, como o Nscore, que aborda todo o aspecto neurobiológico do indivíduo, as análises indicam uma correlação significativa entre os dois.
 
-### Modelo 2: GradientBoosting.
-
-A escolha do GradientBoosting como Modelo 2, foi decidida, pela capacidade construtiva a partir de árvores de decisão sequenciais. O objetivo continuou a prever o consumo de x substância  com base nas caracteristicas indivividuais de cada participante inscrito dentro do dataset.
 
 ### Resultados obtidos com o modelo 2.
 

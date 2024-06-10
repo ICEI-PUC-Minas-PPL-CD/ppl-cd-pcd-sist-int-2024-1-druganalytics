@@ -5,7 +5,6 @@ O nosso trabalho é focado em desenvolver um sistema inteligente capaz de analis
 
 * Thiago Rocha Amaral
 * Bernardo Costa Lima Bentes
-* Rafael Mendes de Lacerda
 * Iury da Mota Santos 
 * Artur Braga Mota
 

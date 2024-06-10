@@ -301,8 +301,8 @@ Utilização do método de GradientBoosting. Localizar as strings classificatór
 -Possiveis atributos coorelacionaveis.
 ![Algoritmo de GradientBoosting.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/colunas.jpeg?raw=true)
 
-
-![Algoritmo de GradientBoosting.]
+-Inicializando o modelo.
+![Algoritmo de GradientBoosting.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/modelfit.jpeg?raw=true)
 
 
 

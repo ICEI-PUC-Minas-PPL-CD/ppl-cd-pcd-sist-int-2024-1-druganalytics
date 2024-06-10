@@ -295,7 +295,7 @@ Utilização do método de GradientBoosting. Localizar as strings classificatór
 
 -Código do modelo de GradientBoosting. 
 
-![Algoritmo de GradientBoosting.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Algoritmo%20de%20regressao.jpeg%202.jpeg?raw=true)
+![Algoritmo de GradientBoosting.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/cl.jpeg?raw=true)
 
 
 

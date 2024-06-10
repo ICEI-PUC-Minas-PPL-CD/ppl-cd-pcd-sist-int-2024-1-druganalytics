@@ -321,7 +321,7 @@ Utilização do método de GradientBoosting. Localizar as strings classificatór
 
 -Relatorio de classificação(Heroin).
 
-![Algoritmo de GradientBoosting.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/resultado%20alcool.jpeg?raw=true)
+![Algoritmo de GradientBoosting.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/resultado%20heroin.jpeg?raw=true)
 
 
 ### Interpretação do modelo 2

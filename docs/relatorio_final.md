@@ -5,8 +5,6 @@ Thiago Rocha Amaral, thiago.amaral@sga.pucminas.br
 
 Bernardo Costa Lima Bentes, bclbentes@sga.pucminas.br
 
-Rafael Mendes de Lacerda, rafael.lacerda.1463293@sga.pucminas.br
-
 Iury da Mota Santos, iury.mota@sga.pucminas.br
 
 Artur Braga Mota, artur.braga@sga.pucminas.br

@@ -336,12 +336,6 @@ modelo se sairia melhor que o outro. Nesta seção é possível utilizar a sua i
 e extrapolar um pouco o que os dados sugerem.
 
 
-### Distribuição do modelo (opcional)
-
-Tende criar um pacote de distribuição para o modelo construído, para ser aplicado 
-em um sistema inteligente.
-
-
 ## 8. Conclusão
 
 Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, 

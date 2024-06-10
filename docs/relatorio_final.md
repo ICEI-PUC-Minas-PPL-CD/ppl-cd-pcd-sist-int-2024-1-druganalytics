@@ -289,9 +289,15 @@ A parte com maior exploração dentro desta matriz foi na quarta linha que houve
 Relacionado a interpretação do primeiro modelo, ao obter o resultado de 40% de precisão conseguimos perceber, mesmo que com o percentual baixo de precisão, é possivel extrair comportamentos entre as relações que foram usadas de parametro (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, Alcool). Em um exemplo específico, como o Nscore, que aborda todo o aspecto neurobiológico do indivíduo, as análises indicam uma correlação significativa entre os dois.
 
 
-### Resultados obtidos com o modelo 2.
+### Resultados obtidos com o modelo 2. (Acurácia do GradientBoosting: 0.83 > Heroin) (Acurácia do GradientBoosting: 0.37 > Alcool) 
 
-Repita o passo anterior com os resultados do modelo 2.
+Utilização do método de GradientBoosting. Cross validation. Segunda Acurácia do modelo. Relatorio de Classificação. Matriz de confusão.
+
+-Código do modelo de GradientBoosting. 
+
+![Algoritmo de GradientBoosting.](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/imagens/Algoritmo%20de%20regressao.jpeg%202.jpeg?raw=true)
+
+
 
 ### Interpretação do modelo 2
 

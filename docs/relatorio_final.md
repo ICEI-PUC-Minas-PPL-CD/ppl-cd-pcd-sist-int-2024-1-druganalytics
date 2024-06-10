@@ -326,7 +326,7 @@ Utilização do método de GradientBoosting. Localizar as strings classificatór
 
 ### Interpretação do modelo 2
 
-Repita o passo anterior com os parâmetros do modelo 2.
+Relacionado a interpretação do segundo modelo, a utilização do método de GradientBoostingao obteve um melhor resultado de precisão em relação ao primeiro modelo utilizado, o percentual de precisão foi significativamente melhor, principalmente olhando para a acurácia da droga Heroin, sendo possivel extrair comportamentos entre as relações que foram usadas de parametro.
 
 
 ## Análise comparativa dos modelos

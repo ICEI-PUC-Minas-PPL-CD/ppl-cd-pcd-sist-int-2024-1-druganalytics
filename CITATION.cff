@@ -1,16 +1,42 @@
-cff-version: 1.0.1
-message: Por favor, cite o repositório utilizando estes metadados.
-title: Repositório modelo para a disciplina de Projeto em Ciência de Dados I - Sistemas Inteligentes.
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DrugAnalytics
+message: >-
+  DrugAnalytics é um trabalho com foco no desenvolvimento um
+  sistema inteligente capaz de fazer uma análise de
+  diferentes tipos de drogas para correlacionar informações
+  e oferecer um feedback a respeito da influência dos
+  entorpeceres na sociedade. O sistema será desenvolvido
+  para análises de dados, tendo como base bancos de dados de
+  credibilidade e um passo a passo do processo exemplificado
+  e correto, com uso da análise exploratória de dados,
+  preparação de dados, indução de modelos dentre outras
+  etapas fundamentais para que o projeto seja conclusivo.
+type: software
 authors:
-   - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: de Paula
-    given-names: Hugo
+  - given-names: Thiago
+    family-names: Rocha Amaral
+    affiliation: Puc Minas
+  - given-names: Bernardo
+    affiliation: Puc Minas
+    family-names: ' Costa Lima Bentes'
+  - given-names: Iury
+    family-names: da Mota Santos
+    affiliation: Puc Minas
+  - given-names: Artur
+    family-names: Braga Mota
+    affiliation: Puc Minas
+  - name: Puc Minas
+    city: Belo Horizinte
+    country: BR
+repository-code: >-
+  https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/main
 keywords:
-  - Ciência de Dados
-  - Jupyter Notebooks
-  - Aprendizado de Máquina
-repository-code:
-license: CC-BY-4.0
-version: 1.0.0
-date-released: 2023-06-30
+  - 'Ciência de Dados '
+  - Regressão Linear
+  - GradientBoosting
+  - Preparação de Dados
+  - Análise Exploratória
+date-released: '2024-09-10'

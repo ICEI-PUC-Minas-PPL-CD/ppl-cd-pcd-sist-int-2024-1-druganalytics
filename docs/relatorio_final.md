@@ -401,11 +401,15 @@ Vantagens:
 Desvantagens:
 
 - Necessidade de Constante Atualização: A dinâmica do problema do uso de drogas exige que o sistema seja continuamente atualizado com novos dados e ajustado com novos algoritmos à medida que novas tendências e padrões forem surgindo.
-- Resultados Pouco Expresivos no 1° Modelo: A implementação do primeiro modelo de Regressão Linear, gerou resultados pouco expressivos e inefecientes para que as análises sejam eficientes
+- Resultados Pouco Expresivos no 1° Modelo: A implementação do primeiro modelo de Regressão Linear, gerou resultados pouco expressivos e inefecientes para que as análises sejam eficientes.
+- 
 
-Uma conclusão deve ter 3 partes:
+A principal limitação do sistema como já foi no tópico acima tem muita relação com a atualização frequente de bancos de dados e de modelos conforme se vê no mundo de hoje, sendo necessário atenção para que as atualizações e melhorias sejam feitas com uma frequencia regular
 
-	 * Apresenação geral dos resultados obtidos com discussão das vantagens e desvantagens do sistema inteligente
+Melhorias que podem ajudar o sistema:
+
+- Aumento da Quantidade e Qualidade de Dados: Para melhorar a quantidade de dados que podem interagir com o sistema uma perspectiva é integrar novas fontes de dados relevantes, como dados de redes sociais e dados de dispositivos móveis, para enriquecer a análise e capturar as tendências sobre o tema, e os temas que mais tem carência de informações em tempo real. Já na parte qualitativa, basicamente ao se aumentar o número de infoemações se requer uma limpeza, validação e padronização de dados maior.
+
 	 * Limitações e possibilidades de melhoria
 
 

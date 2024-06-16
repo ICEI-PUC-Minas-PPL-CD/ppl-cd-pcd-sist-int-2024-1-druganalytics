@@ -416,6 +416,7 @@ A principal limitações do sistema como já foi no tópico acima tem muita rela
 
 Validade Externa:
 - Generalização dos Resultados: Os resultados obtidos pelo sistemas podem não ser generalizáveis para outras populações ou contextos além daqueles para os quais os dados foram coletados. Isso limita a aplicabilidade dos insights gerados em diferentes regiões geográficas ou em grupos demográficos distintos dos já análisados.
+- Interferência de Outras Variáveis: A interação entre variáveis específicas no contexto do estudo e variáveis externas não controladas pode influenciar os resultados. Por exemplo, se mudanças demográficas ou econômicas afetarem os padrões de uso de drogas de maneira não prevista, podendo limitar a geração dos resultados obtidos.
   
 Validade Interna:
 - Controle de Variáveis Externas: Fatores externos que não são controlados podem influenciar os resultados. Por exemplo, mudanças nas políticas públicas relacionadas ao uso de drogas podem ocorrer durante o período de análise, afetando diretamente os resultados sem que isso seja considerado pelo sistema.

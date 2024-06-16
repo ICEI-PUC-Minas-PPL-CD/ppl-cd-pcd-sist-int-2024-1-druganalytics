@@ -394,8 +394,8 @@ Os resultados obtidos pelo sistema:
 
 Vantagens: 
 
-- Precisão na Análise: Atráves dos modelos induzidos utilizados foi possível processar uma quantidade consideravel de dados de maneira eficiente, fornecendo análises coerentes a respeito do comportamento do uso de drogas em diferentes estatisticas
-- Visualização de Dados: A utilização de graficos e tabelas para apresentar os resultados facilita a interpretação das análises, tornando as informações acessíveis e compreensíveis para diferentes usuários.
+- Precisão na Análise: Atráves dos modelos induzidos como Regressão Linear e Gradient Boosting foi possível processar uma quantidade consideravel de dados de maneira eficiente, não apenas prevendo o consumo de drogas, mas fornecendo análises coerentes para identificar padrões de comportamento e fatores de risco associados.
+- Visualização de Dados: A utilização de gráficos e tabelas para apresentar os resultados facilita a interpretação das análises, tornando as informações acessíveis e compreensíveis para diferentes usuários.
 
 Uma conclusão deve ter 3 partes:
 

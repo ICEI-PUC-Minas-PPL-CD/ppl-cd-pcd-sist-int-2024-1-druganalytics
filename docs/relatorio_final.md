@@ -343,7 +343,7 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 | Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
 | Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
 
-### Modelo 2: GradientBoosting.
+### Modelo 2: GradientBoosting. // Alcohol
 
 | Classe | Precisão | Recall | F1-Score | Support |
 | --- | --- | --- | --- | --- |
@@ -355,17 +355,17 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 | Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
 | Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
 
-### Modelo 2.1: GradientBoosting.
+### Modelo 2.1: GradientBoosting. // Heroin
 
 | Classe | Precisão | Recall | F1-Score | Support |
 | --- | --- | --- | --- | --- |
-| Nunca Usou | 0.00 | 0.00 | 0.00 | 5 |
-| Usou a Mais de uma Década | 0.00 | 0.00 | 0.00 | 7 |
-| Usou na última década | 0.00 | 0.00 | 0.00 | 8 |
-| Usou na última semana | 0.41 | 0.92 | 0.57 | 148 |
-| Usou no último ano | 0.00 | 0.00 | 0.00 | 37 |
-| Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
-| Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
+| Nunca Usou | 0.91 | 0.00 | 0.00 | 5 |
+| Usou a Mais de uma Década | 0.97 | 0.00 | 0.00 | 7 |
+| Usou na última década | 1.00 | 0.00 | 0.00 | 8 |
+| Usou na última semana | 1.00 | 0.92 | 0.57 | 148 |
+| Usou no último ano | 1.00 | 0.00 | 0.00 | 37 |
+| Usou no último mês | 1.00 | 0.00 | 0.00 | 55 |
+| Usou nos últimos dias | 1.00 | 0.07 | 0.11 | 98 |
 
 
 

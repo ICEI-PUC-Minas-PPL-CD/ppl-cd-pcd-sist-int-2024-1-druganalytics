@@ -390,9 +390,15 @@ Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados, d
 Assim, o projeto do DrugAnalytics não apenas mostra um caminho para se lidar com as substâncias, para melhorar políticas públucas ou ações do setor privado, mas também destaca o quão importantes são as abordagens baseadas nos dados, para enfrentar um problema de tamanha complexicidade e porporção como é o das drogas. A análise feita durante o trabalho não está limitada apenas a estáticas, mas sim, propõe um sistema dinâmico e adaptável, o que é essencial para lidar com as diversas possibilidades de cenários quando se trata de um assunto longevo e desafiador como esse.
 Portanto, como menção final, o projeto abre novas possibilidades de pesquisa e coleta de dados e informações, mas não está apenas vinculado a isso, reforçando a necessidade da colaboração entre a ciência de dados e a saúde pública e privada para conseguir melhorar cada vez mais o fornecimento de conhecimento, e para que consequentemente as pessoas responsáveis por essas aréas tenham a disposição dados confiáveis para serem tomadas as melhoes decisões em prol da sociedade. 
 
+Os resultados obtidos pelo sistema:
+
+Vantagens: 
+
+- Precisão na Análise: Atráves dos modelos induzidos utilizados foi possível processar uma quantidade consideravel de dados de maneira eficiente, fornecendo análises coerentes a respeito do comportamento do uso de drogas em diferentes estatisticas
+- Visualização de Dados: A utilização de graficos e tabelas para apresentar os resultados facilita a interpretação das análises, tornando as informações acessíveis e compreensíveis para diferentes usuários.
+
 Uma conclusão deve ter 3 partes:
 
-   * Breve resumo do que foi desenvolvido
 	 * Apresenação geral dos resultados obtidos com discussão das vantagens e desvantagens do sistema inteligente
 	 * Limitações e possibilidades de melhoria
 

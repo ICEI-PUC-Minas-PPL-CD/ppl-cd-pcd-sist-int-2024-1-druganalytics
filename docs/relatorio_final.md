@@ -291,7 +291,7 @@ Relacionado a interpretação do primeiro modelo, ao obter o resultado de 40% de
 
 Utilização do método de GradientBoosting. Localizar as strings classificatórias e substituí-las por valores numéricos. Cross validation. Segunda Acurácia do modelo. Relatorio de Classificação. 
 
--Código do modelo de GradientBoosting. 
+-Código do modelo de GradientBoosting explicadas passo a passo:
 
 -Localizar as strings classificatórias e substituí-las por valores numéricos.
 
@@ -324,7 +324,7 @@ Utilização do método de GradientBoosting. Localizar as strings classificatór
 
 ### Interpretação do modelo 2
 
-Relacionado a interpretação do segundo modelo, a utilização do método de GradientBoostingao obteve um melhor resultado de precisão em relação ao primeiro modelo utilizado, o percentual de precisão foi significativamente melhor, principalmente olhando para a acurácia da droga Heroin, sendo possivel extrair comportamentos entre as relações que foram usadas de parametro.
+Relacionado a interpretação do segundo modelo, a utilização do método de GradientBoosting obteve um melhor resultado de precisão em relação ao primeiro modelo utilizado, o percentual de precisão foi significativamente melhor, principalmente olhando para a acurácia da droga Heroin, sendo possivel extrair comportamentos entre as relações que foram usadas de parametro.
 
 
 ## Análise comparativa dos modelos

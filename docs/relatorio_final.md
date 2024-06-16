@@ -386,8 +386,7 @@ Durante a utilização dos modelos e obtendo seus resultados, é possível ver a
 
 ## 8. Conclusão
 
-Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, 
-onde se verifica as observações pessoais de cada aluno.
+Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados desde caracteristicas demograficas ate traços de personalidade, utilizando modelos como regressão linear e GradientBoosting para consguir prever comportamentos relacionado ao consumo de diversas substancias. Os resultados obtidos, embora desafiadores com algumas falahas surante o processo, apontaram para avanços significativo sna compreenção dos fatores que inflenciam o uso de drogas e na capacidade preditiva dos modelos que foram utilizados 
 
 Uma conclusão deve ter 3 partes:
 

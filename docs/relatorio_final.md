@@ -390,7 +390,7 @@ Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados, d
 Assim, o projeto do DrugAnalytics não apenas mostra um caminho para se lidar com as substâncias, para melhorar políticas públucas ou ações do setor privado, mas também destaca o quão importantes são as abordagens baseadas nos dados, para enfrentar um problema de tamanha complexicidade e porporção como é o das drogas. A análise feita durante o trabalho não está limitada apenas a estáticas, mas sim, propõe um sistema dinâmico e adaptável, o que é essencial para lidar com as diversas possibilidades de cenários quando se trata de um assunto longevo e desafiador como esse.
 Portanto, como menção final, o projeto abre novas possibilidades de pesquisa e coleta de dados e informações, mas não está apenas vinculado a isso, reforçando a necessidade da colaboração entre a ciência de dados e a saúde pública e privada para conseguir melhorar cada vez mais o fornecimento de conhecimento, e para que consequentemente as pessoas responsáveis por essas aréas tenham a disposição dados confiáveis para serem tomadas as melhoes decisões em prol da sociedade. 
 
-###Os resultados obtidos pelo sistema:
+### Os resultados obtidos pelo sistema:
 
 Vantagens: 
 
@@ -406,7 +406,7 @@ Desvantagens:
 
 A principal limitação do sistema como já foi no tópico acima tem muita relação com a atualização frequente de bancos de dados e de modelos conforme se vê no mundo de hoje, sendo necessário atenção para que as atualizações e melhorias sejam feitas com uma frequencia regular
 
-###Melhorias que podem ajudar o sistema:
+### Melhorias que podem ajudar o sistema:
 
 - Aumento da Quantidade e Qualidade de Dados: Para melhorar a quantidade de dados que podem interagir com o sistema uma perspectiva é integrar novas fontes de dados relevantes, como dados de redes sociais e dados de dispositivos móveis, para enriquecer a análise e capturar as tendências sobre o tema, e os temas que mais tem carência de informações em tempo real. Já na parte qualitativa, basicamente ao se aumentar o número de infoemações se requer uma limpeza, validação e padronização de dados maior, para assegurar confiabilidade as informações que serão geradas.
 - Utilização de Mais Modelos: Explorar outras técnicas de aprendizado de maquina, facilita ainda mais a geração dos dados, além de aumentar a gama de possíbilidades para aumentar a acurácia e precisão do sistema.

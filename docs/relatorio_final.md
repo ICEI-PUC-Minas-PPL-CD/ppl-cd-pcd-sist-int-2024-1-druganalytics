@@ -398,6 +398,11 @@ Vantagens:
 - Visualização de Dados: A utilização de gráficos e tabelas para apresentar os resultados facilita a interpretação das análises, tornando as informações acessíveis e compreensíveis para diferentes usuários.
 - Análises a Partir de Dados Diversificados: A partir da utilização dos scores, foi possível fazer uma avaliação entre as relações das substâncias com aspectos sociais como educação, idade e gênero, enriquecendo as análises com informações relevantes e atualizadas.
 
+Desvantagens:
+
+- Necessidade de Constante Atualização: A dinâmica do problema do uso de drogas exige que o sistema seja continuamente atualizado com novos dados e ajustado com novos algoritmos à medida que novas tendências e padrões forem surgindo.
+- Resultados Pouco Expresivos no 1° Modelo: A implementação do primeiro modelo de Regressão Linear, gerou resultados pouco expressivos e inefecientes para que as análises sejam eficientes
+
 Uma conclusão deve ter 3 partes:
 
 	 * Apresenação geral dos resultados obtidos com discussão das vantagens e desvantagens do sistema inteligente

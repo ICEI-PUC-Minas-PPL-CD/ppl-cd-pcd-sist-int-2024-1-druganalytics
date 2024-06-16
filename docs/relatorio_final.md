@@ -404,7 +404,7 @@ Desvantagens:
 - Resultados Pouco Expresivos no 1° Modelo: A implementação do primeiro modelo de Regressão Linear, gerou resultados pouco expressivos e inefecientes para que as análises sejam eficientes.
 - 
 
-A principal limitação do sistema como já foi no tópico acima tem muita relação com a atualização frequente de bancos de dados e de modelos conforme se vê no mundo de hoje, sendo necessário atenção para que as atualizações e melhorias sejam feitas com uma frequencia regular
+A principal limitações do sistema como já foi no tópico acima tem muita relação com a atualização frequente de bancos de dados e de modelos conforme se vê no mundo de hoje, sendo necessário atenção para que as atualizações e melhorias sejam feitas com uma frequencia regular, porém existe outros fatores como a dependência da disponibilidade dos dados públicos e de fontes de terceiros o que pode afetar a precisão e abrangência das análises
 
 ### Melhorias que podem ajudar o sistema:
 

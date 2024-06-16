@@ -329,8 +329,9 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 
 ## Análise comparativa dos modelos
 
-Relatorios: 
+## Relatorios: 
 
+### Modelo 1: Regressão linear.
 
 | Classe | Precisão | Recall | F1-Score | Support |
 | --- | --- | --- | --- | --- |
@@ -342,30 +343,30 @@ Relatorios:
 | Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
 | Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
 
+### Modelo 2: GradientBoosting.
 
+| Classe | Precisão | Recall | F1-Score | Support |
+| --- | --- | --- | --- | --- |
+| Nunca Usou | 0.00 | 0.00 | 0.00 | 5 |
+| Usou a Mais de uma Década | 0.00 | 0.00 | 0.00 | 7 |
+| Usou na última década | 0.00 | 0.00 | 0.00 | 8 |
+| Usou na última semana | 0.41 | 0.92 | 0.57 | 148 |
+| Usou no último ano | 0.00 | 0.00 | 0.00 | 37 |
+| Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
+| Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
 
-| Atríbuto | Descrição | Tipo de dado |
-| --- | --- | --- |
-| Frequência | Observa a frequência do uso da substância | Númerico |
-| Sexo | O sexo dos usuários | Textual |
-| Faixa etária | A idade dos usuários em média | Númerico |
-| Renda | Classificação em relação a renda | Númerico |
-| Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
-| Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
-| Região | Região onde há maior número de usuários | Textual |
+### Modelo 2.1: GradientBoosting.
 
+| Classe | Precisão | Recall | F1-Score | Support |
+| --- | --- | --- | --- | --- |
+| Nunca Usou | 0.00 | 0.00 | 0.00 | 5 |
+| Usou a Mais de uma Década | 0.00 | 0.00 | 0.00 | 7 |
+| Usou na última década | 0.00 | 0.00 | 0.00 | 8 |
+| Usou na última semana | 0.41 | 0.92 | 0.57 | 148 |
+| Usou no último ano | 0.00 | 0.00 | 0.00 | 37 |
+| Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
+| Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
 
-
-
-| Atríbuto | Descrição | Tipo de dado |
-| --- | --- | --- |
-| Frequência | Observa a frequência do uso da substância | Númerico |
-| Sexo | O sexo dos usuários | Textual |
-| Faixa etária | A idade dos usuários em média | Númerico |
-| Renda | Classificação em relação a renda | Númerico |
-| Escolaridade | Atributo que observa se a escolaridade é um fator excludente no uso de drogas, analisando se indivíduos com diferentes níveis de educação têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
-| Etnia | Atributo que observa se a etnia é um fator influente no uso de drogas, analisando se indivíduos de diferentes origens étnicas têm propensões variadas para o consumo de substâncias ilícitas. | Númerico |
-| Região | Região onde há maior número de usuários | Textual |
 
 
 

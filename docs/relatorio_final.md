@@ -386,7 +386,8 @@ Durante a utilização dos modelos e obtendo seus resultados, é possível ver a
 
 ## 8. Conclusão
 
-Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados, desde características demograficas ate traços de personalidade, utilizando modelos como regressão linear e GradientBoosting para consguir prever comportamentos relacionados ao consumo de diversas substâncias. Os resultados obtidos, embora desafiadores por haverem algumas falahas durante o processo, apontaram para avanços significativos na compreenção dos fatores que inflenciam o uso de drogas e na capacidade preditiva dos modelos que foram utilizados no trabalho. 
+Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados, desde características demograficas ate traços de personalidade, utilizando modelos como regressão linear e GradientBoosting para consguir prever comportamentos relacionados ao consumo de diversas substâncias. Os resultados obtidos, embora desafiadores por haverem algumas falahas durante o processo, apontaram para avanços significativos na compreenção dos fatores que inflenciam o uso de drogas e na capacidade preditiva dos modelos que foram utilizados no trabalho.
+Assim, o projeto do DrugAnalytics não apenas mostra um caminho para se lidar com as substâncias, para melhorar políticas públucas, e ações do setor privado, mas tambem destaca o quao importante são as abordagens baseadas nos dados que são cruciais para enfrentar um problema de tamanho complexicidade e escala como é o problema das drogas. A analise feita durante o trabalho não está limitada a analises estaticas, mas sim, propoe um sistema dinamico e adaptavel, essencial para lidar com as diversas possibilidades e cenarios quando se trata de um assunto longevo e desafiador como esse 
 
 Uma conclusão deve ter 3 partes:
 

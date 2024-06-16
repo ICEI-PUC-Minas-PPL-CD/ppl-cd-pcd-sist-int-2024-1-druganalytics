@@ -355,6 +355,8 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 | Usou no último mês | 0.55 | 0.94 | 0.69 | 759 |
 | Usou nos últimos dias | 0.70 | 0.49 | 0.58 | 505 |
 
+
+
 ### Modelo 2.1: GradientBoosting. // Heroin
 
 | Classe | Precisão | Recall | F1-Score | Support |
@@ -366,6 +368,14 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 | Usou no último ano | 1.00 | 0.75 | 0.86 | 24 |
 | Usou no último mês | 1.00 | 0.94 | 0.97 | 16 |
 | Usou nos últimos dias | 1.00 | 1.00 | 1.00 | 13 |
+
+- GradientBoosting "Heroin":
+- Métricas:
+- Acurácia: 0.83%
+
+### Análise Comparativa:
+
+
 
 
 

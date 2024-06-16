@@ -329,7 +329,8 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 
 ## Análise comparativa dos modelos
 
-## Relatorios: 
+### Relatorio:
+Abaixo estão localizados os três modelos de aprendizado de maquina, na ordem em que foram implementados
 
 ### Modelo 1: Regressão linear.
 

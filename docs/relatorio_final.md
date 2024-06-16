@@ -417,7 +417,9 @@ Ameaças a Validade:
 Validade Externa:
 - Generalização dos Resultados: Os resultados obtidos pelo sistemas podem não ser generalizáveis para outras populações ou contextos além daqueles para os quais os dados foram coletados. Isso limita a aplicabilidade dos insights gerados em diferentes regiões geográficas ou em grupos demográficos distintos dos já análisados.
   
-
+Validade Interna:
+- Controle de Variáveis Externas: Fatores externos que não são controlados podem influenciar os resultados. Por exemplo, mudanças nas políticas públicas relacionadas ao uso de drogas podem ocorrer durante o período de análise, afetando diretamente os resultados sem que isso seja considerado pelo sistema.
+- Viés de Seleção: A seleção não aleatória de dados ou dos participantes pode introduzir viés nos resultados. Por exemplo, se determinados grupos populacionais são representados nos dados utilizados de forma equivocada pelo sistema, isso pode alterar as conclusões.
 
 # REFERÊNCIAS
 

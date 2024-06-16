@@ -402,7 +402,7 @@ Desvantagens:
 
 - Necessidade de Constante Atualização: A dinâmica do problema do uso de drogas exige que o sistema seja continuamente atualizado com novos dados e ajustado com novos algoritmos à medida que novas tendências e padrões forem surgindo.
 - Resultados Pouco Expresivos no 1° Modelo: A implementação do primeiro modelo de Regressão Linear, gerou resultados pouco expressivos e inefecientes para que as análises sejam eficientes.
-- 
+- Limitações na Cobertura de Dados: A abrangência dos dados disponíveis para a análise pode atrapalhar a ação dos modelos, uma vez que, dentre diversos dados alguns podem conter viés ideologicos e políticos.
 
 A principal limitações do sistema como já foi no tópico acima tem muita relação com a atualização frequente de bancos de dados e de modelos conforme se vê no mundo de hoje, sendo necessário atenção para que as atualizações e melhorias sejam feitas com uma frequencia regular, porém existe outros fatores como a dependência da disponibilidade dos dados públicos e de fontes de terceiros o que pode afetar a precisão das análises, a integração de dados de diferentes fontes pode dificultar as análises, especialmente quando há disparidades nos formatos e nos métodos de coleta, podendo limitar a capacidade do sistema de capturar a visão precisa do panorama. Além disso, apesar do uso de modelos avançados de inteligencia artificial, os dados utilizados podem conter viés que modelos de aprendizagem podem não identificar impactando na precisão das análises.
 

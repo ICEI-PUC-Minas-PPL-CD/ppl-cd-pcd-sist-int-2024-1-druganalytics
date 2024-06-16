@@ -343,7 +343,9 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 | Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
 | Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
 
-
+- Regressão linear "Alcohol":
+- Métricas:
+- Acurácia: 0.39%
 
 ### Modelo 2: GradientBoosting. // Alcohol
 

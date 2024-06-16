@@ -412,8 +412,6 @@ A principal limitações do sistema como já foi no tópico acima tem muita rela
 - Utilização de Mais Modelos: Explorar outras técnicas de aprendizado de maquina, facilita ainda mais a geração dos dados, além de aumentar a gama de possíbilidades para aumentar a acurácia e precisão do sistema.
 - Monitoramento de Desempenho: Implementar sistemas de monitoramento contínuo do desempenho do sistema DrugAnalytics, para coletar feedbacks dos usuários e assim, aprimorar e facilitar as funcionalidades com base nas necessidades que forem sendo identificadas.
 
-	 * Limitações e possibilidades de melhoria
-
 
 # REFERÊNCIAS
 

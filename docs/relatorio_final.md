@@ -347,13 +347,13 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 
 | Classe | Precisão | Recall | F1-Score | Support |
 | --- | --- | --- | --- | --- |
-| Nunca Usou | 0.00 | 0.00 | 0.00 | 5 |
-| Usou a Mais de uma Década | 0.00 | 0.00 | 0.00 | 7 |
-| Usou na última década | 0.00 | 0.00 | 0.00 | 8 |
-| Usou na última semana | 0.41 | 0.92 | 0.57 | 148 |
-| Usou no último ano | 0.00 | 0.00 | 0.00 | 37 |
-| Usou no último mês | 0.00 | 0.00 | 0.00 | 55 |
-| Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
+| Nunca Usou | 1.00 | 0.47 | 0.64 | 34 |
+| Usou a Mais de uma Década | 1.00 | 0.74 | 0.85 | 34 |
+| Usou na última década | 0.97 | 0.46 | 0.62 | 68 |
+| Usou na última semana | 0.94 | 0.31 | 0.47 | 198 |
+| Usou no último ano | 0.95 | 0.28 | 0.44 | 287 |
+| Usou no último mês | 0.55 | 0.94 | 0.69 | 759 |
+| Usou nos últimos dias | 0.70 | 0.49 | 0.58 | 505 |
 
 ### Modelo 2.1: GradientBoosting. // Heroin
 

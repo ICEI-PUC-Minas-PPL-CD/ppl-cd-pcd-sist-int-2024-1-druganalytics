@@ -408,7 +408,9 @@ A principal limitação do sistema como já foi no tópico acima tem muita rela�
 
 Melhorias que podem ajudar o sistema:
 
-- Aumento da Quantidade e Qualidade de Dados: Para melhorar a quantidade de dados que podem interagir com o sistema uma perspectiva é integrar novas fontes de dados relevantes, como dados de redes sociais e dados de dispositivos móveis, para enriquecer a análise e capturar as tendências sobre o tema, e os temas que mais tem carência de informações em tempo real. Já na parte qualitativa, basicamente ao se aumentar o número de infoemações se requer uma limpeza, validação e padronização de dados maior.
+- Aumento da Quantidade e Qualidade de Dados: Para melhorar a quantidade de dados que podem interagir com o sistema uma perspectiva é integrar novas fontes de dados relevantes, como dados de redes sociais e dados de dispositivos móveis, para enriquecer a análise e capturar as tendências sobre o tema, e os temas que mais tem carência de informações em tempo real. Já na parte qualitativa, basicamente ao se aumentar o número de infoemações se requer uma limpeza, validação e padronização de dados maior, para assegurar confiabilidade as informações que serão geradas.
+- Utilização de Mais Modelos: Explorar outras técnicas de aprendizado de maquina, facilita ainda mais a geração dos dados, além de aumentar a gama de possíbilidades para aumentar a acurácia e precisão do sistema.
+- Monitoramento de Desempenho: Implementar sistemas de monitoramento contínuo do desempenho do sistema DrugAnalytics, para coletar feedbacks dos usuários e assim, aprimorar e facilitar as funcionalidades com base nas necessidades que forem sendo identificadas.
 
 	 * Limitações e possibilidades de melhoria
 

@@ -386,7 +386,7 @@ Durante a utilização dos modelos e obtendo seus resultados, é possível ver a
 
 ## 8. Conclusão
 
-Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados, desde características demograficas ate traços de personalidade, utilizando modelos como regressão linear e GradientBoosting para consguir prever comportamentos relacionado ao consumo de diversas substancias. Os resultados obtidos, embora desafiadores com algumas falahas surante o processo, apontaram para avanços significativo sna compreenção dos fatores que inflenciam o uso de drogas e na capacidade preditiva dos modelos que foram utilizados 
+Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados, desde características demograficas ate traços de personalidade, utilizando modelos como regressão linear e GradientBoosting para consguir prever comportamentos relacionados ao consumo de diversas substâncias. Os resultados obtidos, embora desafiadores por haverem algumas falahas durante o processo, apontaram para avanços significativos na compreenção dos fatores que inflenciam o uso de drogas e na capacidade preditiva dos modelos que foram utilizados no trabalho. 
 
 Uma conclusão deve ter 3 partes:
 

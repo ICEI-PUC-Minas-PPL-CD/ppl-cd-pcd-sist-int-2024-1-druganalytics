@@ -396,6 +396,7 @@ Vantagens:
 
 - Precisão na Análise: Atráves dos modelos induzidos como Regressão Linear e Gradient Boosting foi possível processar uma quantidade consideravel de dados de maneira eficiente, não apenas prevendo o consumo de drogas, mas fornecendo análises coerentes para identificar padrões de comportamento e fatores de risco associados.
 - Visualização de Dados: A utilização de gráficos e tabelas para apresentar os resultados facilita a interpretação das análises, tornando as informações acessíveis e compreensíveis para diferentes usuários.
+- Análises a Partir de Dados Diversificados: A partir da utilização dos scores, foi possível fazer uma avaliação entre as relações das substâncias com aspectos sociais como educação, idade e gênero, enriquecendo as análises com informações relevantes e atualizadas.
 
 Uma conclusão deve ter 3 partes:
 

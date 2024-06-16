@@ -359,13 +359,13 @@ Relacionado a interpretação do segundo modelo, a utilização do método de Gr
 
 | Classe | Precisão | Recall | F1-Score | Support |
 | --- | --- | --- | --- | --- |
-| Nunca Usou | 0.91 | 0.00 | 0.00 | 5 |
-| Usou a Mais de uma Década | 0.97 | 0.00 | 0.00 | 7 |
-| Usou na última década | 1.00 | 0.00 | 0.00 | 8 |
-| Usou na última semana | 1.00 | 0.92 | 0.57 | 148 |
-| Usou no último ano | 1.00 | 0.00 | 0.00 | 37 |
-| Usou no último mês | 1.00 | 0.00 | 0.00 | 55 |
-| Usou nos últimos dias | 1.00 | 0.07 | 0.11 | 98 |
+| Nunca Usou | 0.91 | 1.00 | 0.95 | 1605 |
+| Usou a Mais de uma Década | 0.97 | 0.43 | 0.59 | 68 |
+| Usou na última década | 1.00 | 0.32 | 0.48 | 94 |
+| Usou na última semana | 1.00 | 0.35 | 0.52 | 65 |
+| Usou no último ano | 1.00 | 0.75 | 0.86 | 24 |
+| Usou no último mês | 1.00 | 0.94 | 0.97 | 16 |
+| Usou nos últimos dias | 1.00 | 1.00 | 1.00 | 13 |
 
 
 

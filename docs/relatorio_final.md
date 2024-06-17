@@ -23,9 +23,15 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+_**Resumo**. 
 
+O projeto DrugAnalytics visa abordar globalmente o problema das drogas usando inteligência artificial para análise de dados. Ele destaca a gravidade do uso de drogas, tanto no cenário mundial quanto no Brasil, mencionando estatísticas alarmantes. Seu objetivo principal é desenvolver um sistema que analise grandes volumes de dados para oferecer insights personalizados a entidades públicas e privadas, melhorando políticas de combate ao vício e facilitando a reintegração social.
+
+O sistema proposto centraliza dados de diversas fontes confiáveis como IBGE, UNODC, GOV BR e Health Lake, visando identificar padrões comportamentais e ajudar na tomada de decisões mais assertivas. Além disso, visa atender diferentes públicos-alvo, como profissionais de saúde, educadores, pais, e decisores políticos, utilizando modelos estatísticos como regressão linear e GradientBoosting para análise preditiva do consumo de substâncias como álcool e ecstasy com base em características individuais.
+
+
+Em suma, o projeto DrugAnalytics busca não apenas compreender melhor o fenômeno das drogas através de dados, mas também fornecer ferramentas práticas para enfrentar esse problema de saúde pública global de maneira mais informada e eficiente.
+Apesar da acurácia modesta de aproximadamente 40% na regressão linear, os resultados fornecem insights valiosos sobre os fatores que influenciam o consumo de drogas, fundamentando medidas preventivas e intervencionistas mais eficazes. Em resumo, DrugAnalytics visa compreender e enfrentar o fenômeno das drogas de forma mais informada e eficiente, contribuindo para a saúde pública global.
 ---
 
 

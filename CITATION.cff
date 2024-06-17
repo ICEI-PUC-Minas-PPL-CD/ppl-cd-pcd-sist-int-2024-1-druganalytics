@@ -21,7 +21,7 @@ authors:
     affiliation: Puc Minas
   - given-names: Bernardo
     affiliation: Puc Minas
-    family-names: ' Costa Lima Bentes'
+    family-names: Costa Lima Bentes
   - given-names: Iury
     family-names: da Mota Santos
     affiliation: Puc Minas
@@ -34,7 +34,7 @@ authors:
 repository-code: >-
   https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/main
 keywords:
-  - 'Ciência de Dados '
+  - Ciência de Dados
   - Regressão Linear
   - GradientBoosting
   - Preparação de Dados

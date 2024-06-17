@@ -23,7 +23,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**. 
+**Resumo**
 
 O projeto DrugAnalytics visa abordar globalmente o problema das drogas usando inteligência artificial para análise de dados. Ele destaca a gravidade do uso de drogas, tanto no cenário mundial quanto no Brasil, mencionando estatísticas alarmantes. Seu objetivo principal é desenvolver um sistema que analise grandes volumes de dados para oferecer insights personalizados a entidades públicas e privadas, melhorando políticas de combate ao vício e facilitando a reintegração social.
 

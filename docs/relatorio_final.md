@@ -29,10 +29,7 @@ O projeto DrugAnalytics visa abordar globalmente o problema das drogas usando in
 
 O sistema proposto centraliza dados de diferentes fontes confiáveis como Kaggle e GOV BR, visando identificar padrões comportamentais e ajudar na tomada de decisões mais assertivas. Além disso, visa atender como público-alvo, profissionais da área da saúde pública e privada e decisores políticos, utilizando modelos estatísticos como regressão linear e GradientBoosting para análise preditiva do consumo de substâncias como álcool e ecstasy com base em características individuais.
 
-Em suma, o projeto DrugAnalytics busca não apenas compreender melhor o fenômeno das drogas através de dados, mas também fornecer ferramentas práticas para enfrentar esse problema de saúde pública global de maneira mais informada e eficiente.
-Apesar da acurácia modesta de aproximadamente 40% na regressão linear, os resultados fornecem insights valiosos sobre os fatores que influenciam o consumo de drogas, fundamentando medidas preventivas e intervencionistas mais eficazes. Em resumo, DrugAnalytics visa compreender e enfrentar o fenômeno das drogas de forma mais informada e eficiente, contribuindo para a saúde pública global.
-
-
+Em suma, o projeto DrugAnalytics busca não apenas compreender melhor o fenômeno das drogas através de dados, mas também fornecer ferramentas práticas para enfrentar esse problema de saúde pública global de maneira mais informada e eficiente, utilizando métodos de extração, análise, estudo de dados e de aprendizagem de maquina, para gerar um resultado preciso sobre o tema.
 
 
 ## Introdução

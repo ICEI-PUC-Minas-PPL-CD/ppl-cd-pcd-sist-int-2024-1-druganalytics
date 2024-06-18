@@ -430,16 +430,6 @@ A principal limitações do sistema como já foi no tópico acima tem muita rela
 - Utilização de Mais Modelos: Explorar outras técnicas de aprendizado de maquina, facilita ainda mais a geração dos dados, além de aumentar a gama de possíbilidades para aumentar a acurácia e precisão do sistema.
 - Monitoramento de Desempenho: Implementar sistemas de monitoramento contínuo do desempenho do sistema DrugAnalytics, para coletar feedbacks dos usuários e assim, aprimorar e facilitar as funcionalidades com base nas necessidades que forem sendo identificadas.
 
-### Ameaças a Validade:
-
-Validade Externa:
-- Generalização dos Resultados: Os resultados obtidos pelo sistemas podem não ser generalizáveis para outras populações ou contextos além daqueles para os quais os dados foram coletados. Isso limita a aplicabilidade dos insights gerados em diferentes regiões geográficas ou em grupos demográficos distintos dos já análisados.
-- Interferência de Outras Variáveis: A interação entre variáveis específicas no contexto do estudo e variáveis externas não controladas pode influenciar os resultados. Por exemplo, se mudanças demográficas ou econômicas afetarem os padrões de uso de drogas de maneira não prevista, podendo limitar a geração dos resultados obtidos.
-  
-Validade Interna:
-- Controle de Variáveis Externas: Fatores externos que não são controlados podem influenciar os resultados. Por exemplo, mudanças nas políticas públicas relacionadas ao uso de drogas podem ocorrer durante o período de análise, afetando diretamente os resultados sem que isso seja considerado pelo sistema.
-- Viés de Seleção: A seleção não aleatória de dados ou dos participantes pode introduzir viés nos resultados. Por exemplo, se determinados grupos populacionais são representados nos dados utilizados de forma equivocada pelo sistema, isso pode alterar as conclusões.
-
 # REFERÊNCIAS
 
 Como um projeto de sistema inteligente não requer revisão bibliográfica, 

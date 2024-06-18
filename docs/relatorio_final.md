@@ -402,6 +402,16 @@ Classes:
 
 Durante a utilização dos modelos e obtendo seus resultados, é possível ver a disparidade relacionada ao processamento de informações ao lidar com algumas classes desbalanceadas como temos neste dataset. O modelo Gradient Boosting, por conseguir capturar diferentes aspectos dos dados, devido, por exemplo, à não linearidade das ações executadas no modelo, consegue modelar relações mais complexas, identificar os erros ao longo das iterações e, assim, otimizar o desempenho do modelo. Desta forma, o modelo de regressão linear é mais simples e direto, não capturando a complexidade do dataset como um todo, sendo inviável sua utilização em um conjunto de dados com tantas variações.
 
+### Ameaças a Validade:
+
+Validade Externa:
+- Generalização dos Resultados: Os resultados obtidos pelo sistemas podem não ser generalizáveis para outras populações ou contextos além daqueles para os quais os dados foram coletados. Isso limita a aplicabilidade dos insights gerados em diferentes regiões geográficas ou em grupos demográficos distintos dos já análisados.
+- Interferência de Outras Variáveis: A interação entre variáveis específicas no contexto do estudo e variáveis externas não controladas pode influenciar os resultados. Por exemplo, se mudanças demográficas ou econômicas afetarem os padrões de uso de drogas de maneira não prevista, podendo limitar a geração dos resultados obtidos.
+  
+Validade Interna:
+- Controle de Variáveis Externas: Fatores externos que não são controlados podem influenciar os resultados. Por exemplo, mudanças nas políticas públicas relacionadas ao uso de drogas podem ocorrer durante o período de análise, afetando diretamente os resultados sem que isso seja considerado pelo sistema.
+- Viés de Seleção: A seleção não aleatória de dados ou dos participantes pode introduzir viés nos resultados. Por exemplo, se determinados grupos populacionais são representados nos dados utilizados de forma equivocada pelo sistema, isso pode alterar as conclusões.
+
 ## 8. Conclusão
 
 Ao londo do trabalho, exploramos diferentes perspectivas a respeito dos dados, desde características demograficas ate traços de personalidade, utilizando modelos como regressão linear e GradientBoosting para consguir prever comportamentos relacionados ao consumo de diversas substâncias. Os resultados obtidos, embora desafiadores por haverem algumas falahas durante o processo, apontaram para avanços significativos na compreenção dos fatores que inflenciam o uso de drogas e na capacidade preditiva dos modelos que foram utilizados no trabalho.

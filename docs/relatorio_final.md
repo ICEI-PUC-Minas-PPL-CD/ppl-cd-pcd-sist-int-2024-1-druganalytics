@@ -66,7 +66,7 @@ Com base nas informações apresentadas anteriormente, podemos afirmar com clare
 
 O conceito do projeto da DrugAnalytics tem como finalidade identificar um padrão de comportamento em indivíduos que estão ou estiveram inseridos no contexto do mundo das drogas a fim sintonizar alguma solução necessária e precisa para cada caso particular. A motivação por trás de todo o trabalho está em utilizar dos conhecimentos que partem tanto da análise de dados quanto das ferramentas tecnológicas para retornar positivamente para o mundo. O projeto além de funcionar como material de estudo comportamental orientado a partir de dados, também faz sua parte como ação social em ajudar milhares de famílias.
 
-Tendo em vista que a parcela da população mais vulnerável à entrada no mundo das drogas é a porção pobre e periférica, a análise de comportamento dos dados será direcionada majoritariamente a esse público. As bases de dados e informações que o algoritmo utilizará para o seu processamento será o IBGE, UNODC, GOV BR e Health Lake
+Tendo em vista que a parcela da população mais vulnerável à entrada no mundo das drogas é a porção pobre e periférica, a análise de comportamento dos dados será direcionada majoritariamente a esse público. As bases de dados e informações que o algoritmo utilizará para o seu processamento será Kaggle e o GOV BR.
 
 
 

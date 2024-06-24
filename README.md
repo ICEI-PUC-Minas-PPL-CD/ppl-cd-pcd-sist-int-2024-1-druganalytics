@@ -16,6 +16,9 @@ O  trabalho é focado em desenvolver um sistema inteligente capaz de analisar ba
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
+Pré-requisitos
+Antes de instalar e executar a aplicação, certifique-se de que o seu ambiente atende aos seguintes pré-requisitos:
+
 ## Histórico de versões
 
 * 0.1.1

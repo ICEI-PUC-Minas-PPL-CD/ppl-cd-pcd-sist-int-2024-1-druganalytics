@@ -30,6 +30,14 @@ Siga os passos abaixo para instalar as dependências necessárias para a execuç
 -Ative o ambiente virtual
 -Instale as dependências: Execute o comando para instalar todas as dependências listadas no arquivo
 
+Execução da Aplicação
+Após a instalação das dependências, siga os passos abaixo para executar a aplicação:
+
+-Navegue até o diretório do projeto
+-Execute a aplicação (dpendendo da estrutura do seu projeto, a forma de execução pode variar)
+
+Utilização
+Após executar a aplicação, siga as instruções específicas que aparecerão no terminal ou na interface da aplicação. Geralmente, para aplicações web, você poderá acessar a aplicação através de um navegador web, navegando para o endereço local.
 
 
 ## Histórico de versões

@@ -25,6 +25,13 @@ Antes de instalar e executar a aplicação, certifique-se de que o seu ambiente 
 
 Siga os passos abaixo para instalar as dependências necessárias para a execução da aplicação:
 
+-Clone o repositório: Abra um terminal e execute o comando para clonar o repositório
+-Navegue até o diretório do projeto
+-Ative o ambiente virtual
+-Instale as dependências: Execute o comando para instalar todas as dependências listadas no arquivo
+
+
+
 ## Histórico de versões
 
 * 0.1.1

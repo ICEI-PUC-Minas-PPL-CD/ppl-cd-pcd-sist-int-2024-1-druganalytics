@@ -23,6 +23,8 @@ Antes de instalar e executar a aplicação, certifique-se de que o seu ambiente 
 - Python: Certifique-se de ter o Python 3.7 ou superior instalado.
 - Git: Para clonar o repositório do código-fonte, você precisará do Git.
 
+Siga os passos abaixo para instalar as dependências necessárias para a execução da aplicação:
+
 ## Histórico de versões
 
 * 0.1.1

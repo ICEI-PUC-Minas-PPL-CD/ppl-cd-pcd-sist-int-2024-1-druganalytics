@@ -19,6 +19,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 Pré-requisitos
 Antes de instalar e executar a aplicação, certifique-se de que o seu ambiente atende aos seguintes pré-requisitos:
 
+- Sistema Operacional: Windows, macOS ou Linux.
+- Python: Certifique-se de ter o Python 3.7 ou superior instalado.
+- Git: Para clonar o repositório do código-fonte, você precisará do Git.
+
 ## Histórico de versões
 
 * 0.1.1

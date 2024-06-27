@@ -46,6 +46,7 @@ Gerando gráfico: "Comparação entre país e frequência de uso de ecstasy"
 Gerando gráfico: "Relação entre Neuroticism(Nscore) e Consumo de Álcool"
 ![Captura de Tela (84)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/f80a7d2d-0c56-4510-ab6b-34cdcd5c37f9)
 
-
+Gerando gráfico: "Relação entre Extraversion(Escore) e Consumo de Álcool"
+![Captura de Tela (85)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/bbe54aae-3abc-4c57-a899-c42429cb2787)
 
 

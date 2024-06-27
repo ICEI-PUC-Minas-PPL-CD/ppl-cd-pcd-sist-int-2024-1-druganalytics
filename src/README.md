@@ -76,6 +76,7 @@ Cálculo da Acurácia da Regressão Linear
 
 ![Captura de Tela (96)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/b01be74d-f234-459c-b405-32f5ff711647)
 
+![Captura de Tela (97)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/ccc6a4ae-0f95-4150-8a76-a91a6749e911)
 
 
 

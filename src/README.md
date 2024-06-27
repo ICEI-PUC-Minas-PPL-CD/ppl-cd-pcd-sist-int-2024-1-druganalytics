@@ -26,4 +26,5 @@
 
 ![Captura de Tela (77)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/ffaab864-b626-4a61-8a1f-e7597b08d6e0)
 
+Gerando gráfico: "Comparação entre gênero e frequência de uso de ecstasy" 
 ![Captura de Tela (78)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/6fe485e7-f817-49ff-8067-6de91e8dc62e)

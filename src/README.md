@@ -29,43 +29,43 @@
 ### Gerando gráfico: "Comparação entre gênero e frequência de uso de ecstasy" 
 ![Captura de Tela (78)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/6fe485e7-f817-49ff-8067-6de91e8dc62e)
 
-Gerando gráfico: "Comparação entre idade e frequência de uso de ecstasy"
+### Gerando gráfico: "Comparação entre idade e frequência de uso de ecstasy"
 ![Captura de Tela (79)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/7debfa57-7806-4c56-92d0-2d837eb69762)
 
 ![Captura de Tela (80)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/5f62e615-9a50-4fa1-b716-dde71a2b64da)
 
-Gerando gráfico: "Comparação entre Etnias e frequência de uso de ecstasy"
+### Gerando gráfico: "Comparação entre Etnias e frequência de uso de ecstasy"
 ![Captura de Tela (81)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/65a4ed86-af45-4784-b402-bd79252ab0cb)
 
-Gerando gráfico: "Comparação entre educação e frequência de uso de ecstasy"
+### Gerando gráfico: "Comparação entre educação e frequência de uso de ecstasy"
 ![Captura de Tela (82)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/983f4179-216a-4929-947e-4f0c463d700c)
 
-Gerando gráfico: "Comparação entre país e frequência de uso de ecstasy"
+### Gerando gráfico: "Comparação entre país e frequência de uso de ecstasy"
 ![Captura de Tela (83)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/d1a5a0df-39b1-4a6c-96b1-d79a88011e8e)
 
-Gerando gráfico: "Relação entre Neuroticism(Nscore) e Consumo de Álcool"
+### Gerando gráfico: "Relação entre Neuroticism(Nscore) e Consumo de Álcool"
 ![Captura de Tela (84)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/f80a7d2d-0c56-4510-ab6b-34cdcd5c37f9)
 
-Gerando gráfico: "Relação entre Extraversion(Escore) e Consumo de Álcool"
+### Gerando gráfico: "Relação entre Extraversion(Escore) e Consumo de Álcool"
 ![Captura de Tela (85)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/bbe54aae-3abc-4c57-a899-c42429cb2787)
 
-Gerando gráfico: "Relação entre Openness(Oscore) e Consumo de Álcool"
+### Gerando gráfico: "Relação entre Openness(Oscore) e Consumo de Álcool"
 ![Captura de Tela (86)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/766e5036-d947-4685-8083-497fce45a432)
 
-Gerando gráfico: "Relação entre Agreeableness(Ascore) e Consumo de Álcool"
+### Gerando gráfico: "Relação entre Agreeableness(Ascore) e Consumo de Álcool"
 ![Captura de Tela (87)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/ce11ed40-632f-4db6-a1ca-54dfd4563677)
 
-Gerando gráfico: "Relação entre Conscientiousness(Cscore) e Consumo de Álcool"
+### Gerando gráfico: "Relação entre Conscientiousness(Cscore) e Consumo de Álcool"
 ![Captura de Tela (88)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/71769d37-04f3-4387-ab7f-722f76e9c560)
 
-Gerando gráfico: "Relação entre Impulsive(Impulsive) e Consumo de Álcool"
+### Gerando gráfico: "Relação entre Impulsive(Impulsive) e Consumo de Álcool"
 ![Captura de Tela (89)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/234f4d22-d878-440d-81c4-d54fe01f4ea6)
 
 ![Captura de Tela (90)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/f18e5ad9-b0a6-4501-933c-e5a592cac997)
 
 ![Captura de Tela (91)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/4b04127c-ad95-4821-ad6e-a56b596fcfbb)
 
-Cálculo da Acurácia da Regressão Linear
+### Cálculo da Acurácia da Regressão Linear
 ![Captura de Tela (92)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/b6c7a92a-be23-4052-b41c-ea12a0e45859)
 
 ![Captura de Tela (93)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/7946a467-d2c2-4c2a-85f6-6067099d599d)

@@ -43,8 +43,9 @@ Gerando gráfico: "Comparação entre educação e frequência de uso de ecstasy
 Gerando gráfico: "Comparação entre país e frequência de uso de ecstasy"
 ![Captura de Tela (83)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/d1a5a0df-39b1-4a6c-96b1-d79a88011e8e)
 
-Gerando gráfico: "Relação entre Impulsive(Impulsive) e Consumo de Álcool"
+Gerando gráfico: "Relação entre Neuroticism(Nscore) e Consumo de Álcool"
 ![Captura de Tela (84)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/f80a7d2d-0c56-4510-ab6b-34cdcd5c37f9)
+
 
 
 

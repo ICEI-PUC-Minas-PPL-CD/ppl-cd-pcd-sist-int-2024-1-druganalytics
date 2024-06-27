@@ -65,3 +65,7 @@ Gerando gráfico: "Relação entre Impulsive(Impulsive) e Consumo de Álcool"
 
 ![Captura de Tela (91)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/4b04127c-ad95-4821-ad6e-a56b596fcfbb)
 
+Cálculo da Acurácia da Regressão Linear
+![Captura de Tela (92)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/b6c7a92a-be23-4052-b41c-ea12a0e45859)
+
+

@@ -40,4 +40,7 @@ Gerando gráfico: "Comparação entre Etnias e frequência de uso de ecstasy"
 Gerando gráfico: "Comparação entre educação e frequência de uso de ecstasy"
 ![Captura de Tela (82)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/983f4179-216a-4929-947e-4f0c463d700c)
 
+Gerando gráfico: "Comparação entre país e frequência de uso de ecstasy"
+![Captura de Tela (83)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/d1a5a0df-39b1-4a6c-96b1-d79a88011e8e)
+
 

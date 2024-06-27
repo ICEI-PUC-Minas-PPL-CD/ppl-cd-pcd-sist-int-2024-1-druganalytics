@@ -52,3 +52,5 @@ Gerando gráfico: "Relação entre Extraversion(Escore) e Consumo de Álcool"
 Gerando gráfico: "Relação entre Openness(Oscore) e Consumo de Álcool"
 ![Captura de Tela (86)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/766e5036-d947-4685-8083-497fce45a432)
 
+Gerando gráfico: "Relação entre Agreeableness(Ascore) e Consumo de Álcool"
+![Captura de Tela (87)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/ce11ed40-632f-4db6-a1ca-54dfd4563677)

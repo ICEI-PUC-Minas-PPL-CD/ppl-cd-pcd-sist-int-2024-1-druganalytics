@@ -54,3 +54,6 @@ Gerando gráfico: "Relação entre Openness(Oscore) e Consumo de Álcool"
 
 Gerando gráfico: "Relação entre Agreeableness(Ascore) e Consumo de Álcool"
 ![Captura de Tela (87)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/ce11ed40-632f-4db6-a1ca-54dfd4563677)
+
+Gerando gráfico: "Relação entre Conscientiousness(Cscore) e Consumo de Álcool"
+![Captura de Tela (88)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/71769d37-04f3-4387-ab7f-722f76e9c560)

@@ -466,7 +466,7 @@ Por exemplo:
 
 **Colocar link:**
 
-Do código (armazenado no repositório);
+Do código (src);
 
 Dos artefatos (armazenado do repositório);
 

@@ -57,3 +57,7 @@ Gerando gráfico: "Relação entre Agreeableness(Ascore) e Consumo de Álcool"
 
 Gerando gráfico: "Relação entre Conscientiousness(Cscore) e Consumo de Álcool"
 ![Captura de Tela (88)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/71769d37-04f3-4387-ab7f-722f76e9c560)
+
+Gerando gráfico: "Relação entre Impulsive(Impulsive) e Consumo de Álcool"
+![Captura de Tela (89)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/234f4d22-d878-440d-81c4-d54fe01f4ea6)
+

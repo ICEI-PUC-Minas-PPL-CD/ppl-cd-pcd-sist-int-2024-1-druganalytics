@@ -466,7 +466,7 @@ Por exemplo:
 
 **Colocar link:**
 
-Do código (src);
+Do código (https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/712f2836c1c1d12943f9687ce44545c7bc3a5b12/src);
 
 Dos artefatos (armazenado do repositório);
 

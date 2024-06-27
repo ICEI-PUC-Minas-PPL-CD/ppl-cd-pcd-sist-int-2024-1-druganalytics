@@ -62,3 +62,6 @@ Gerando gráfico: "Relação entre Impulsive(Impulsive) e Consumo de Álcool"
 ![Captura de Tela (89)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/234f4d22-d878-440d-81c4-d54fe01f4ea6)
 
 ![Captura de Tela (90)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/f18e5ad9-b0a6-4501-933c-e5a592cac997)
+
+![Captura de Tela (91)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/4b04127c-ad95-4821-ad6e-a56b596fcfbb)
+

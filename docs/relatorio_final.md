@@ -466,13 +466,13 @@ Por exemplo:
 
 **Colocar link:**
 
-Do código (https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/712f2836c1c1d12943f9687ce44545c7bc3a5b12/src);
+Link Código: https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/712f2836c1c1d12943f9687ce44545c7bc3a5b12/src ;
 
-Dos artefatos (armazenado do repositório);
+Link Artefatos: (armazenado do repositório);
 
-Da apresentação final (armazenado no repositório);
+Link Apresentação Final: (armazenado no repositório);
 
-Do vídeo de apresentação (armazenado no repositório).
+Link do Vídeo de Apresentação: (armazenado no repositório).
 
 
 

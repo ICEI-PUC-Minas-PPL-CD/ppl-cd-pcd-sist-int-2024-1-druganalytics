@@ -33,3 +33,8 @@ Gerando gráfico: "Comparação entre idade e frequência de uso de ecstasy"
 ![Captura de Tela (79)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/7debfa57-7806-4c56-92d0-2d837eb69762)
 
 ![Captura de Tela (80)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/5f62e615-9a50-4fa1-b716-dde71a2b64da)
+
+Gerando gráfico: "Comparação entre Etnias e frequência de uso de ecstasy"
+![Captura de Tela (81)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/65a4ed86-af45-4784-b402-bd79252ab0cb)
+
+

@@ -7,3 +7,5 @@
 ![Captura de Tela (66)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/43a625ed-270b-432b-a623-ef0d0b853b41)
 
 ![Captura de Tela (68)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/618c3aa1-2f2b-42e2-9849-1e379b843a63)
+
+![Captura de Tela (69)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/2a8b628c-f0f8-40d6-a183-5d8c233de1ed)

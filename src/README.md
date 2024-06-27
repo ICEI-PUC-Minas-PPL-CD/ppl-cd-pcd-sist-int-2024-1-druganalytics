@@ -49,4 +49,6 @@ Gerando gráfico: "Relação entre Neuroticism(Nscore) e Consumo de Álcool"
 Gerando gráfico: "Relação entre Extraversion(Escore) e Consumo de Álcool"
 ![Captura de Tela (85)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/bbe54aae-3abc-4c57-a899-c42429cb2787)
 
+Gerando gráfico: "Relação entre Openness(Oscore) e Consumo de Álcool"
+![Captura de Tela (86)](https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/assets/160988192/766e5036-d947-4685-8083-497fce45a432)
 

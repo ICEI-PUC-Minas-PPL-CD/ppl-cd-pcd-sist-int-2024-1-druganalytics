@@ -1,8 +1,8 @@
 # Modelos do sistema
 
-* Regressão Linear
+* Regressão Linear (3 arquivos)
   
-* GradientBoosting
+* GradientBoosting (4 arquivos)
 
 
 

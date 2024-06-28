@@ -1,7 +1,7 @@
 # Modelos do sistema
 
-** Regressão Linear
-** GradientBoosting
+*** Regressão Linear
+*** GradientBoosting
 
 
 

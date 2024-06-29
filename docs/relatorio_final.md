@@ -468,7 +468,7 @@ Por exemplo:
 
 Link Código: https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/712f2836c1c1d12943f9687ce44545c7bc3a5b12/src ;
 
-Link Artefatos: (armazenado do repositório);
+Link Artefatos: https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/85f0de6e8ddb476c1df0dbf563869af076e5b3e5/assets ;
 
 Link Apresentação Final: (armazenado no repositório);
 

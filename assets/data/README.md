@@ -7,6 +7,6 @@ Os principais documentos a serem produzidos são:
 * `drug_consumption.csv`
 	* base principal original.
 
-* `final_processed_data.csv`
+* `drug_consumption_tratada.csv`
   * base final processada, limpa e selecionada
 	

@@ -4,13 +4,9 @@ Este diretório mantém os artefatos relatório à modelagem de dados do projeto
 
 Os principais documentos a serem produzidos são:
 
-* `data_raw.csv`
-	* base principal original. pode ser em qualquer formato tabular
-
-* `other_data_raw.csv`
-	* outras bases utilizadas no processo de enriquecimento
+* `drug_consumption.csv`
+	* base principal original.
 
 * `final_processed_data.csv`
   * base final processada, limpa e selecionada
 	
-Demais artefatos que julgar pertinentes.

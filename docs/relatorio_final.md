@@ -250,7 +250,7 @@ Durante o processo de treinamento, os dados obtidos foram reservados em 20% para
 
 ### Modelo 2: GradientBoosting.
 
-A escolha do GradientBoosting como Modelo 2, foi decidida, pela capacidade construtiva a partir de árvores de decisão sequenciais. O objetivo continuou a prever o consumo de x substância  com base nas caracteristicas indivividuais de cada participante inscrito dentro do dataset.
+A escolha do GradientBoosting como Modelo 2, foi decidida, pela capacidade construtiva a partir de árvores de decisão sequenciais. O objetivo continuou a prever o consumo de x substância  com base nas caracteristicas indivividuais de cada participante inscrito dentro do dataset. Este método é eficaz para lidar com relações complexas entre variáveis e tem sido utilizado em problemas onde o objetivo é prever comportamentos ou padrões a partir de dados estruturados. Ao aplicá-lo ao nosso dataset, pudemos não apenas melhorar significativamente a precisão das previsões, mas também explorar de maneira mais detalhada as nuances e interações que influenciam o consumo de substâncias específicas entre os participantes.
 
 
 ## Resultados

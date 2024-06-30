@@ -1,5 +1,6 @@
 # DrugAnalytics
-O  trabalho é focado em desenvolver um sistema inteligente capaz de analisar bancos de dados existentes a respeito de drogas encontradas na sociedade e oferecer um feedback de acordo com o interresse do usuário, seja ele uma entidade privada ou pública. O sistema será desenvolvido para análises de dados atuais, tendo como base bancos de dados de credibilidade que a partir de um processo de completo extração, interpretação e anásile dentre outras etapas para gerar bons resultados.
+
+O trabalho é focado em desenvolver um sistema inteligente capaz de analisar bancos de dados existentes a respeito de drogas encontradas na sociedade e oferecer um feedback de acordo com o interesse do usuário, seja ele uma entidade privada ou pública. O sistema será desenvolvido para análises de dados atuais, tendo como base bancos de dados de credibilidade que a partir de um processo de completo extração, interpretação e anásile dentre outras etapas para gerar bons resultados.
 
 ## Integrantes
 

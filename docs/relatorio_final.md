@@ -348,7 +348,6 @@ Abaixo estão localizados os três modelos de aprendizado de maquina, na ordem e
 | Usou nos últimos dias | 0.23 | 0.07 | 0.11 | 98 |
 
 - Regressão linear "Alcohol":
-- Métricas:
 - Acurácia: 0.39%
 
 ### Modelo 2: GradientBoosting. // Alcohol
@@ -363,8 +362,7 @@ Abaixo estão localizados os três modelos de aprendizado de maquina, na ordem e
 | Usou no último mês | 0.55 | 0.94 | 0.69 | 759 |
 | Usou nos últimos dias | 0.70 | 0.49 | 0.58 | 505 |
 
-- GradientBoosting "Heroin":
-- Métricas:
+- GradientBoosting "Alcohol":
 - Acurácia: 0.37%
 
 ### Modelo 2.1: GradientBoosting. // Heroin
@@ -379,17 +377,16 @@ Abaixo estão localizados os três modelos de aprendizado de maquina, na ordem e
 | Usou no último mês | 1.00 | 0.94 | 0.97 | 16 |
 | Usou nos últimos dias | 1.00 | 1.00 | 1.00 | 13 |
 
-- GradientBoosting "Alcohol":
-- Métricas:
+- GradientBoosting "Heroin":
 - Acurácia: 0.83%
 
 ### Análise Comparativa:
 
 Acurácias:
 - Regressão Linear "Alcohol": 0.39%
-- GradientBoosting "Heroin": 0.37%
-- GradientBoosting "Alcohol": 0.83%
-Dessa forma, o modelo GradientBoosting "Alcohol" apresenta a melhor acurácia entre os três modelos.
+- GradientBoosting "Alcohol": 0.37%
+- GradientBoosting "Heroin": 0.83%
+Dessa forma, o modelo GradientBoosting "Heroin" apresenta a melhor acurácia entre os três modelos.
 
 Classes: 
 - Na classe "Nunca Usou", todos os modelos apresentam alta precisão, entretanto o GradientBoosting "Heroin" apresenta um recall perfeito de 1.00, o que indica que é completo na indentificação dos casos

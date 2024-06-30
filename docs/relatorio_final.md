@@ -83,9 +83,9 @@ Pesquisadores e acadêmicos: Outros cientistas e pesquisadores na área da saúd
 ## Análise exploratórida dos dados
 
 ###    Dicionário de dados
-Base de dados 1: GOV BR
+Base de Dados Principal: Kaggle
 
-Base de Dados 2: Kaggle
+Base de Dados Secundaria: GOV BR
 
 | Atríbuto | Descrição | Tipo de dado |
 | --- | --- | --- |

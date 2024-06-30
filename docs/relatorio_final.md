@@ -121,7 +121,7 @@ Base de Dados Secundaria: GOV BR
  
  
 ###    Dados Qualitativos:
--Droga mais utilizada
+- droga mais utilizada
 - droga homem ou mulher
 - droga hospital
 - droga vicio

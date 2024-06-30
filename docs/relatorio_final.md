@@ -474,6 +474,8 @@ Link Código: https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-
 
 Link Artefatos: https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/tree/85f0de6e8ddb476c1df0dbf563869af076e5b3e5/assets ;
 
+link Slides : https://github.com/ICEI-PUC-Minas-PPL-CD/ppl-cd-pcd-sist-int-2024-1-druganalytics/blob/main/docs/Dataset%20Drugs.pdf ;
+
 Link Apresentação Final: (armazenado no repositório);
 
 Link do Vídeo de Apresentação: (armazenado no repositório).

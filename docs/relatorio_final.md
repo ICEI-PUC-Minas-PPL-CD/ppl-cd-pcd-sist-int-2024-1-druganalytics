@@ -42,6 +42,7 @@ Diante desse cenário, nosso trabalho está focado em desenvolver um sistema int
 
 A ideia é centralizar os dados em um único lugar para que, por meio deles, medidas mais assertivas possam ser tomadas e para que o índice de eficácia seja o mais próximo do projetado, atacando diretamente problemas relacionados à dependência química que são continuamente vistos nos jornais, noticiários e, principalmente, nas ruas dia após dia.
 
+
 ###    Problema
 
 Com base nas informações apresentadas anteriormente, podemos afirmar com clareza que nosso sistema será uma parte fundamental para resolver o problema do crescimento do número de usuários de drogas no Brasil e no mundo, o qual tem alarmado especialistas e analistas sobre o futuro em relação às drogas. Assim, o sistema será aplicado em empresas que atuem na área de estatística, saúde e segurança, fornecendo a tecnologia necessária e qualificada para que elas tenham auxílio na hora de extrair as informações a partir do máximo de dados disponíveis e correlacionados.

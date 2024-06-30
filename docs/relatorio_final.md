@@ -80,7 +80,7 @@ Tomadores de decisão políticos: Políticos, legisladores e formuladores de pol
 
 Pesquisadores e acadêmicos: Outros cientistas e pesquisadores na área da saúde, ciência social e campos relacionados podem ser um público-alvo para estudos sobre drogas, especialmente aqueles que buscam avançar o conhecimento científico sobre o tema.
 
-## Análise Explóratoria dos dados
+## Análise exploratória dos dados
 
 ###    Dicionário de dados
 Base de Dados Principal: Kaggle

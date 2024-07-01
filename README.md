@@ -15,7 +15,7 @@ O trabalho é focado em desenvolver um sistema inteligente capaz de analisar ban
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Assim que a primeira versão do sistema estiver disponível, deverá ser complementada com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 Pré-requisitos
 Antes de instalar e executar a aplicação, certifique-se de que o seu ambiente atende aos seguintes pré-requisitos:
